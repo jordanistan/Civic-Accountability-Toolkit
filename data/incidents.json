@@ -1,0 +1,406 @@
+[
+  {
+    "slug": "2025-2026-law-firm-orders",
+    "title": "2025\u20132026 law firm orders litigation",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-religion-and-state-initiatives",
+    "title": "2025\u20132026 religion and state initiatives",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2026-birthright-citizenship-litigation",
+    "title": "2026 birthright citizenship litigation",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2026-iran-war-powers-dispute",
+    "title": "2026 Iran war-powers dispute",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "incident-stub-brooke-rollins",
+    "title": "Incident intake stub \u2014 Brooke Rollins",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-chris-wright",
+    "title": "Incident intake stub \u2014 Chris Wright",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-doug-burgum",
+    "title": "Incident intake stub \u2014 Doug Burgum",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-doug-collins",
+    "title": "Incident intake stub \u2014 Doug Collins",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-howard-lutnick",
+    "title": "Incident intake stub \u2014 Howard Lutnick",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-jamieson-greer",
+    "title": "Incident intake stub \u2014 Jamieson Greer",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-jd-vance",
+    "title": "Incident intake stub \u2014 Jd Vance",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-john-ratcliffe",
+    "title": "Incident intake stub \u2014 John Ratcliffe",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-kelly-loeffler",
+    "title": "Incident intake stub \u2014 Kelly Loeffler",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-lee-zeldin",
+    "title": "Incident intake stub \u2014 Lee Zeldin",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-linda-mcmahon",
+    "title": "Incident intake stub \u2014 Linda Mcmahon",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-lori-chavez-deremer",
+    "title": "Incident intake stub \u2014 Lori Chavez Deremer",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-markwayne-mullin",
+    "title": "Incident intake stub \u2014 Markwayne Mullin",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-melania-trump",
+    "title": "Incident intake stub \u2014 Melania Trump",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-robert-f-kennedy-jr",
+    "title": "Incident intake stub \u2014 Robert F Kennedy Jr",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-russ-vought",
+    "title": "Incident intake stub \u2014 Russ Vought",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-scott-bessent",
+    "title": "Incident intake stub \u2014 Scott Bessent",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-scott-turner",
+    "title": "Incident intake stub \u2014 Scott Turner",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-sean-duffy",
+    "title": "Incident intake stub \u2014 Sean Duffy",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-tulsi-gabbard",
+    "title": "Incident intake stub \u2014 Tulsi Gabbard",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  },
+  {
+    "slug": "incident-stub-usha-vance",
+    "title": "Incident intake stub \u2014 Usha Vance",
+    "meta": {
+      "type": "incident",
+      "status": "stub",
+      "tags": [
+        "incident",
+        "stub",
+        "intake-needed"
+      ],
+      "linked_people": "",
+      "linked_issues": "",
+      "source_tier": "L4"
+    }
+  }
+]

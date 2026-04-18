@@ -1,0 +1,577 @@
+[
+  {
+    "slug": "brooke-rollins",
+    "title": "Brooke Rollins",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Agriculture",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "chris-wright",
+    "title": "Chris Wright",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Energy",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "donald-j-trump",
+    "title": "Donald J. Trump",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "President of the United States",
+      "group": "President",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "doug-burgum",
+    "title": "Doug Burgum",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of the Interior",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "doug-collins",
+    "title": "Doug Collins",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Veterans Affairs",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "howard-lutnick",
+    "title": "Howard Lutnick",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Commerce",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "jamieson-greer",
+    "title": "Jamieson Greer",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "United States Trade Representative",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "jd-vance",
+    "title": "JD Vance",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Vice President of the United States",
+      "group": "Vice President",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "john-ratcliffe",
+    "title": "John Ratcliffe",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Director of the Central Intelligence Agency",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "kelly-loeffler",
+    "title": "Kelly Loeffler",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Administrator of the Small Business Administration",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "lee-zeldin",
+    "title": "Lee Zeldin",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Administrator of the Environmental Protection Agency",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "linda-mcmahon",
+    "title": "Linda McMahon",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Education",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "lori-chavez-deremer",
+    "title": "Lori Chavez-DeRemer",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Labor",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "marco-rubio",
+    "title": "Marco Rubio",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of State",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "markwayne-mullin",
+    "title": "Markwayne Mullin",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Homeland Security",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "melania-trump",
+    "title": "Melania Trump",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "First Lady of the United States",
+      "group": "White House family",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "pam-bondi",
+    "title": "Pam Bondi",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Attorney General",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "pete-hegseth",
+    "title": "Pete Hegseth",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Defense",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "robert-f-kennedy-jr",
+    "title": "Robert F. Kennedy Jr.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Health and Human Services",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "russ-vought",
+    "title": "Russ Vought",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Director of the Office of Management and Budget",
+      "group": "Executive Office",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "scott-bessent",
+    "title": "Scott Bessent",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of the Treasury",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "scott-turner",
+    "title": "Scott Turner",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Housing and Urban Development",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "sean-duffy",
+    "title": "Sean Duffy",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Secretary of Transportation",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "tulsi-gabbard",
+    "title": "Tulsi Gabbard",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Director of National Intelligence",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  },
+  {
+    "slug": "usha-vance",
+    "title": "Usha Vance",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "Second Lady of the United States",
+      "group": "White House family",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "related_people": "",
+      "source_notes": ""
+    }
+  }
+]
