@@ -1,0 +1,16 @@
+# AI Context Files
+GEMINI.md
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# MkDocs
+site/
