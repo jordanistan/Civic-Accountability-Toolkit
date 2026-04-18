@@ -1,0 +1,331 @@
+[
+  {
+    "slug": "brooke-rollins",
+    "title": "Brooke Rollins",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-brooke-rollins"
+    ]
+  },
+  {
+    "slug": "chris-wright",
+    "title": "Chris Wright",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-chris-wright"
+    ]
+  },
+  {
+    "slug": "donald-j-trump",
+    "title": "Donald J Trump",
+    "agencies": [
+      "congress",
+      "doj-public-integrity"
+    ],
+    "issues": [
+      "immigration-and-due-process",
+      "war-powers-and-international-law",
+      "religion-and-state",
+      "civil-rights-and-first-amendment"
+    ],
+    "incidents": [
+      "2026-birthright-citizenship-litigation",
+      "2026-iran-war-powers-dispute",
+      "2025-2026-religion-and-state-initiatives",
+      "2025-2026-law-firm-orders"
+    ]
+  },
+  {
+    "slug": "doug-burgum",
+    "title": "Doug Burgum",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-doug-burgum"
+    ]
+  },
+  {
+    "slug": "doug-collins",
+    "title": "Doug Collins",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-doug-collins"
+    ]
+  },
+  {
+    "slug": "howard-lutnick",
+    "title": "Howard Lutnick",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-howard-lutnick"
+    ]
+  },
+  {
+    "slug": "jamieson-greer",
+    "title": "Jamieson Greer",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-jamieson-greer"
+    ]
+  },
+  {
+    "slug": "jd-vance",
+    "title": "Jd Vance",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "civil-rights-and-first-amendment"
+    ],
+    "incidents": [
+      "incident-stub-jd-vance"
+    ]
+  },
+  {
+    "slug": "john-ratcliffe",
+    "title": "John Ratcliffe",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "war-powers-and-international-law"
+    ],
+    "incidents": [
+      "incident-stub-john-ratcliffe"
+    ]
+  },
+  {
+    "slug": "kelly-loeffler",
+    "title": "Kelly Loeffler",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-kelly-loeffler"
+    ]
+  },
+  {
+    "slug": "lee-zeldin",
+    "title": "Lee Zeldin",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-lee-zeldin"
+    ]
+  },
+  {
+    "slug": "linda-mcmahon",
+    "title": "Linda Mcmahon",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-linda-mcmahon"
+    ]
+  },
+  {
+    "slug": "lori-chavez-deremer",
+    "title": "Lori Chavez Deremer",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-lori-chavez-deremer"
+    ]
+  },
+  {
+    "slug": "marco-rubio",
+    "title": "Marco Rubio",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "war-powers-and-international-law"
+    ],
+    "incidents": [
+      "2026-iran-war-powers-dispute"
+    ]
+  },
+  {
+    "slug": "markwayne-mullin",
+    "title": "Markwayne Mullin",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-markwayne-mullin"
+    ]
+  },
+  {
+    "slug": "melania-trump",
+    "title": "Melania Trump",
+    "agencies": [],
+    "issues": [],
+    "incidents": [
+      "incident-stub-melania-trump"
+    ]
+  },
+  {
+    "slug": "pam-bondi",
+    "title": "Pam Bondi",
+    "agencies": [
+      "doj-public-integrity",
+      "inspectors-general"
+    ],
+    "issues": [
+      "civil-rights-and-first-amendment",
+      "public-integrity-and-corruption",
+      "religion-and-state"
+    ],
+    "incidents": [
+      "2025-2026-religion-and-state-initiatives",
+      "2025-2026-law-firm-orders"
+    ]
+  },
+  {
+    "slug": "pete-hegseth",
+    "title": "Pete Hegseth",
+    "agencies": [
+      "congress",
+      "inspectors-general"
+    ],
+    "issues": [
+      "war-powers-and-international-law"
+    ],
+    "incidents": [
+      "2026-iran-war-powers-dispute"
+    ]
+  },
+  {
+    "slug": "robert-f-kennedy-jr",
+    "title": "Robert F Kennedy Jr",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-robert-f-kennedy-jr"
+    ]
+  },
+  {
+    "slug": "russ-vought",
+    "title": "Russ Vought",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-russ-vought"
+    ]
+  },
+  {
+    "slug": "scott-bessent",
+    "title": "Scott Bessent",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-scott-bessent"
+    ]
+  },
+  {
+    "slug": "scott-turner",
+    "title": "Scott Turner",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-scott-turner"
+    ]
+  },
+  {
+    "slug": "sean-duffy",
+    "title": "Sean Duffy",
+    "agencies": [
+      "inspectors-general"
+    ],
+    "issues": [
+      "public-integrity-and-corruption"
+    ],
+    "incidents": [
+      "incident-stub-sean-duffy"
+    ]
+  },
+  {
+    "slug": "tulsi-gabbard",
+    "title": "Tulsi Gabbard",
+    "agencies": [
+      "congress"
+    ],
+    "issues": [
+      "war-powers-and-international-law"
+    ],
+    "incidents": [
+      "incident-stub-tulsi-gabbard"
+    ]
+  },
+  {
+    "slug": "usha-vance",
+    "title": "Usha Vance",
+    "agencies": [],
+    "issues": [],
+    "incidents": [
+      "incident-stub-usha-vance"
+    ]
+  }
+]

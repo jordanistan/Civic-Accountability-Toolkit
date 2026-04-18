@@ -1,0 +1,12 @@
+# Religion and state
+
+## Scope
+Potential Establishment Clause, neutrality, and discriminatory implementation issues.
+
+## Typical questions
+- Is government privileging one faith perspective?
+- What implementation records exist?
+- Is there differential treatment?
+
+## Linked incidents
+- 2025 2026 Religion And State Initiatives

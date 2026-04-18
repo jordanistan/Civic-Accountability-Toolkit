@@ -1,0 +1,22 @@
+# 2026 birthright citizenship litigation
+
+## One-line summary
+Lower courts reportedly found the administration’s birthright-citizenship policy inconsistent with the Fourteenth Amendment and federal law.
+
+## What is documented
+Reporting states that lower courts ruled against the policy on constitutional and statutory grounds.
+
+## What remains alleged or unresolved
+The ultimate appellate outcome and any derivative liability remain unresolved.
+
+## Why it matters
+This provides a concrete constitutional litigation record relevant to constituent oversight requests.
+
+## Suggested oversight ask
+Request congressional constitutional oversight, document preservation, and review of implementation guidance.
+
+## Linked notes
+- Donald J Trump
+- Immigration And Due Process
+- Fourteenth Amendment
+- Reuters Birthright Note

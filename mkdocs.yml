@@ -1,0 +1,27 @@
+site_name: Civic Accountability Toolkit
+site_description: Evidence-first civic toolkit for public records, oversight requests, and linked case notes.
+site_url: https://example.github.io/civic-accountability-toolkit/
+theme:
+  name: mkdocs
+nav:
+  - Home: index.md
+  - How to Use: how-to-use.md
+  - Daily Workflow: daily-workflow.md
+  - People: people.md
+  - Incidents: incidents.md
+  - Issues: issues.md
+  - Statutes: statutes.md
+  - Agencies: agencies.md
+  - Source Reliability: sourcing-standard.md
+  - Safe Civic Use: safe-civic-use.md
+  - Contribution Guide: contributing.md
+  - FAQ: faq.md
+  - Site Index: site-index.md
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+extra_css:
+  - assets/extra.css
+
+  - Graph View: graph-view.md

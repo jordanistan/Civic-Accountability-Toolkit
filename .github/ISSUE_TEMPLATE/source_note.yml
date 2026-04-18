@@ -1,0 +1,21 @@
+name: Add source note
+description: Propose a new source-backed evidence note
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What does the source say?
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Source tier
+      options:
+        - L1
+        - L2
+        - L3
+        - L4

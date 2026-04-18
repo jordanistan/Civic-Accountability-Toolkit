@@ -1,0 +1,546 @@
+[
+  {
+    "slug": "donald-j-trump",
+    "title": "Donald J. Trump",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "President of the United States",
+      "group": "President",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [
+        "incidents/2026-birthright-citizenship-litigation",
+        "incidents/2026-iran-war-powers-dispute"
+      ],
+      "related_issues": [
+        "issues/immigration-and-due-process",
+        "issues/war-powers-and-international-law"
+      ]
+    }
+  },
+  {
+    "slug": "jd-vance",
+    "title": "JD Vance",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Vice President of the United States",
+      "group": "Vice President",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "melania-trump",
+    "title": "Melania Trump",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "First Lady of the United States",
+      "group": "White House family",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "usha-vance",
+    "title": "Usha Vance",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Second Lady of the United States",
+      "group": "White House family",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "scott-bessent",
+    "title": "Scott Bessent",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of the Treasury",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "pam-bondi",
+    "title": "Pam Bondi",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Attorney General",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [
+        "incidents/2025-2026-religion-and-state-initiatives"
+      ],
+      "related_issues": [
+        "issues/civil-rights-and-first-amendment",
+        "issues/religion-and-state"
+      ]
+    }
+  },
+  {
+    "slug": "doug-burgum",
+    "title": "Doug Burgum",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of the Interior",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "lori-chavez-deremer",
+    "title": "Lori Chavez-DeRemer",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Labor",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "doug-collins",
+    "title": "Doug Collins",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Veterans Affairs",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "sean-duffy",
+    "title": "Sean Duffy",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Transportation",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "tulsi-gabbard",
+    "title": "Tulsi Gabbard",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Director of National Intelligence",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "jamieson-greer",
+    "title": "Jamieson Greer",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "United States Trade Representative",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "pete-hegseth",
+    "title": "Pete Hegseth",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Defense",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [
+        "incidents/2026-iran-war-powers-dispute"
+      ],
+      "related_issues": [
+        "issues/war-powers-and-international-law"
+      ]
+    }
+  },
+  {
+    "slug": "robert-f-kennedy-jr",
+    "title": "Robert F. Kennedy Jr.",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Health and Human Services",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "kelly-loeffler",
+    "title": "Kelly Loeffler",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Administrator of the Small Business Administration",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "howard-lutnick",
+    "title": "Howard Lutnick",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Commerce",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "linda-mcmahon",
+    "title": "Linda McMahon",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Education",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "markwayne-mullin",
+    "title": "Markwayne Mullin",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Homeland Security",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "john-ratcliffe",
+    "title": "John Ratcliffe",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Director of the Central Intelligence Agency",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "brooke-rollins",
+    "title": "Brooke Rollins",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Agriculture",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "marco-rubio",
+    "title": "Marco Rubio",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of State",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [
+        "incidents/2026-iran-war-powers-dispute"
+      ],
+      "related_issues": [
+        "issues/war-powers-and-international-law"
+      ]
+    }
+  },
+  {
+    "slug": "scott-turner",
+    "title": "Scott Turner",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Housing and Urban Development",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "russ-vought",
+    "title": "Russ Vought",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Director of the Office of Management and Budget",
+      "group": "Executive Office",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "chris-wright",
+    "title": "Chris Wright",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Secretary of Energy",
+      "group": "Cabinet",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  },
+  {
+    "slug": "lee-zeldin",
+    "title": "Lee Zeldin",
+    "folder": "people",
+    "summary": "Track current official role, linked incidents, possible review categories, and evidence gaps.",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster"
+      ],
+      "role": "Administrator of the Environmental Protection Agency",
+      "group": "Cabinet-level",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_incidents": [],
+      "related_issues": []
+    }
+  }
+]

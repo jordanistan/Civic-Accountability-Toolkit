@@ -1,0 +1,15 @@
+name: Incident update
+description: Propose a change to an incident note
+body:
+  - type: input
+    id: incident
+    attributes:
+      label: Incident file
+  - type: textarea
+    id: facts
+    attributes:
+      label: New fact(s)
+  - type: textarea
+    id: source
+    attributes:
+      label: Supporting sources
