@@ -1,0 +1,513 @@
+[
+  {
+    "slug": "doj-public-integrity-section",
+    "title": "DOJ Public Integrity Section",
+    "meta": {
+      "type": "evidence",
+      "status": "active",
+      "tags": [
+        "evidence",
+        "source",
+        "official"
+      ],
+      "source_tier": "L1",
+      "source_type": "official contact / office page",
+      "url": "https://www.justice.gov/criminal/criminal-pin"
+    }
+  },
+  {
+    "slug": "house-find-representative",
+    "title": "U.S. House Find Your Representative",
+    "meta": {
+      "type": "evidence",
+      "status": "active",
+      "tags": [
+        "evidence",
+        "source",
+        "official"
+      ],
+      "source_tier": "L1",
+      "source_type": "official contact page",
+      "url": "https://www.house.gov/representatives/find-your-representative"
+    }
+  },
+  {
+    "slug": "house-find-your-representative",
+    "title": "House find your representative",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L1",
+      "outlet": "U.S. House",
+      "url": "https://www.house.gov/representatives/find-your-representative"
+    }
+  },
+  {
+    "slug": "reuters-birthright-note",
+    "title": "Reuters note \u2014 birthright citizenship litigation",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L2",
+      "outlet": "Reuters"
+    }
+  },
+  {
+    "slug": "reuters-iran-war-powers-note",
+    "title": "Reuters note \u2014 Iran war powers dispute",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L2",
+      "outlet": "Reuters"
+    }
+  },
+  {
+    "slug": "reuters-law-firm-orders-note",
+    "title": "Reuters note \u2014 law firm orders litigation",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L2",
+      "outlet": "Reuters"
+    }
+  },
+  {
+    "slug": "reuters-religion-state-note",
+    "title": "Reuters note \u2014 religion and state initiatives",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L2",
+      "outlet": "Reuters"
+    }
+  },
+  {
+    "slug": "senate-contact-page",
+    "title": "U.S. Senate contact page",
+    "meta": {
+      "type": "evidence",
+      "status": "active",
+      "tags": [
+        "evidence",
+        "source",
+        "official"
+      ],
+      "source_tier": "L1",
+      "source_type": "official contact page",
+      "url": "https://www.senate.gov/senators/senators-contact.htm"
+    }
+  },
+  {
+    "slug": "senate-contacting-senators",
+    "title": "Senate contacting senators",
+    "meta": {
+      "type": "evidence",
+      "tags": [
+        "evidence"
+      ],
+      "source_tier": "L1",
+      "outlet": "U.S. Senate",
+      "url": "https://www.senate.gov/senators/senators-contact.htm"
+    }
+  },
+  {
+    "slug": "white-house-administration-page",
+    "title": "White House Administration roster page",
+    "meta": {
+      "type": "evidence",
+      "status": "active",
+      "tags": [
+        "evidence",
+        "source",
+        "official"
+      ],
+      "source_tier": "L1",
+      "source_type": "official roster page",
+      "url": "https://www.whitehouse.gov/administration/"
+    }
+  },
+  {
+    "slug": "white-house-cabinet-page",
+    "title": "White House Cabinet page",
+    "meta": {
+      "type": "evidence",
+      "status": "active",
+      "tags": [
+        "evidence",
+        "source",
+        "official"
+      ],
+      "source_tier": "L1",
+      "source_type": "official cabinet page",
+      "url": "https://www.whitehouse.gov/administration/cabinet/"
+    }
+  },
+  {
+    "slug": "wiki-brooke-rollins",
+    "title": "Wikipedia Summary: Brooke Rollins",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Brooke%20Rollins",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-chris-wright",
+    "title": "Wikipedia Summary: Chris Wright",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Chris%20Wright",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-doug-burgum",
+    "title": "Wikipedia Summary: Doug Burgum",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Doug%20Burgum",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-doug-collins",
+    "title": "Wikipedia Summary: Doug Collins",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Doug%20Collins",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-howard-lutnick",
+    "title": "Wikipedia Summary: Howard Lutnick",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Howard%20Lutnick",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-jamieson-greer",
+    "title": "Wikipedia Summary: Jamieson Greer",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Jamieson%20Greer",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-jd-vance",
+    "title": "Wikipedia Summary: JD Vance",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/JD%20Vance",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-john-ratcliffe",
+    "title": "Wikipedia Summary: John Ratcliffe",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/John%20Ratcliffe",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-kelly-loeffler",
+    "title": "Wikipedia Summary: Kelly Loeffler",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Kelly%20Loeffler",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-lee-zeldin",
+    "title": "Wikipedia Summary: Lee Zeldin",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Lee%20Zeldin",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-linda-mcmahon",
+    "title": "Wikipedia Summary: Linda McMahon",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Linda%20McMahon",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-lori-chavez-deremer",
+    "title": "Wikipedia Summary: Lori Chavez-DeRemer",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Lori%20Chavez-DeRemer",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-markwayne-mullin",
+    "title": "Wikipedia Summary: Markwayne Mullin",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Markwayne%20Mullin",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-melania-trump",
+    "title": "Wikipedia Summary: Melania Trump",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Melania%20Trump",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-robert-f-kennedy-jr",
+    "title": "Wikipedia Summary: Robert F. Kennedy Jr.",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Robert%20F.%20Kennedy%20Jr.",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-russ-vought",
+    "title": "Wikipedia Summary: Russ Vought",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Russ%20Vought",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-scott-bessent",
+    "title": "Wikipedia Summary: Scott Bessent",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Scott%20Bessent",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-scott-turner",
+    "title": "Wikipedia Summary: Scott Turner",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Scott%20Turner",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-sean-duffy",
+    "title": "Wikipedia Summary: Sean Duffy",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Sean%20Duffy",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-tulsi-gabbard",
+    "title": "Wikipedia Summary: Tulsi Gabbard",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Tulsi%20Gabbard",
+      "people": ""
+    }
+  },
+  {
+    "slug": "wiki-usha-vance",
+    "title": "Wikipedia Summary: Usha Vance",
+    "meta": {
+      "type": "evidence",
+      "status": "verified",
+      "tags": [
+        "evidence",
+        "biography",
+        "wikipedia"
+      ],
+      "source_tier": "L3",
+      "date_published": "2026-04-18",
+      "url": "https://en.wikipedia.org/wiki/Usha%20Vance",
+      "people": ""
+    }
+  }
+]
