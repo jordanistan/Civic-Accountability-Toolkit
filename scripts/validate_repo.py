@@ -5,6 +5,8 @@ ROOT = Path(__file__).resolve().parents[1]
 missing = []
 link_re = re.compile(r'\[\[([^\]]+)\]\]')
 for md in ROOT.rglob('*.md'):
+    if md.name == 'GEMINI.md':
+        continue
     text = md.read_text(encoding='utf-8', errors='ignore')
     for raw in link_re.findall(text):
         target = raw.split('|', 1)[0]
