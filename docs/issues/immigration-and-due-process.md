@@ -1,3 +1,4 @@
+
 # Immigration and due process
 
 ## Scope
@@ -9,4 +10,4 @@ Constitutional and administrative-law questions related to immigration status, p
 - What records guided implementation?
 
 ## Linked incidents
-- 2026 Birthright Citizenship Litigation
+- [[incidents/2026-birthright-citizenship-litigation]]

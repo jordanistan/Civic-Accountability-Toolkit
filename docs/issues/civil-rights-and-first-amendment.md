@@ -1,3 +1,4 @@
+
 # Civil rights and First Amendment
 
 ## Scope
@@ -9,4 +10,4 @@ Speech retaliation, access discrimination, due process, and official retaliation
 - What did courts hold?
 
 ## Linked incidents
-- 2025 2026 Law Firm Orders
+- [[incidents/2025-2026-law-firm-orders]]

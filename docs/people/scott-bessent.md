@@ -1,23 +1,24 @@
+
 # Scott Bessent
 
 ## Snapshot
 - Role: Secretary of the Treasury
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Scott Bessent
+- [[incidents/2025-2026-actions-scott-bessent]]
 
 ## Relationship notes
-- Scott Bessent  Congress
-- Scott Bessent  Public Integrity And Corruption
+- [[relationships/scott-bessent--congress]]
+- [[relationships/scott-bessent--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/war-powers-and-international-law
 related_incidents:
-  - incidents/incident-stub-john-ratcliffe
+  - incidents/2025-2026-actions-john-ratcliffe
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-john-ratcliffe
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- [[incidents/incident-stub-john-ratcliffe]]
+- [[incidents/2025-2026-actions-john-ratcliffe]]
 
 ## Relationship notes
 - [[relationships/john-ratcliffe--congress]]

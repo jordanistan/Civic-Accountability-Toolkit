@@ -1,10 +1,11 @@
+
 # Melania Trump
 
 ## Snapshot
 - Role: First Lady of the United States
 - Group: White House family
 - Office status: current
-- Primary source anchors: White House Administration Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]]
 
 ## Linked agencies
 - No agency review path linked yet; add when a source-backed incident is created.
@@ -13,7 +14,7 @@
 - No issue notes linked yet.
 
 ## Linked incidents
-- Incident Stub Melania Trump
+- [[incidents/2025-2026-actions-melania-trump]]
 
 ## Relationship notes
 - Add relationship notes after source-backed review.

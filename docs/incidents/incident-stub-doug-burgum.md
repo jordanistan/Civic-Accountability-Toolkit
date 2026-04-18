@@ -1,3 +1,4 @@
+
 # Incident intake stub — Doug Burgum
 
 ## Purpose

@@ -2,8 +2,6 @@
   {
     "slug": "establishment-clause-note",
     "title": "Establishment Clause note",
-    "folder": "statutes",
-    "summary": "Government actions relating to religion may raise constitutional issues if they advance, favor, or entangle government with religion in unlawful ways.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -14,8 +12,6 @@
   {
     "slug": "fifth-amendment-due-process",
     "title": "Fifth Amendment / Due Process",
-    "folder": "statutes",
-    "summary": "Protects due process against federal government action.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -26,8 +22,6 @@
   {
     "slug": "first-amendment",
     "title": "First Amendment",
-    "folder": "statutes",
-    "summary": "Protects speech, press, religion, assembly, and petition.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -38,8 +32,6 @@
   {
     "slug": "fourteenth-amendment",
     "title": "Fourteenth Amendment",
-    "folder": "statutes",
-    "summary": "Includes the Citizenship Clause and equal protection / due process guarantees.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -50,8 +42,6 @@
   {
     "slug": "immigration-due-process",
     "title": "Immigration due process note",
-    "folder": "statutes",
-    "summary": "Administrative and constitutional protections can apply in immigration adjudication and status determinations.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -62,8 +52,6 @@
   {
     "slug": "war-crimes-act-note",
     "title": "War Crimes Act note",
-    "folder": "statutes",
-    "summary": "This note is for **very high-threshold** allegations only. Public reporting alone is not enough to conclude criminal war-crimes liability.",
     "meta": {
       "type": "statute",
       "tags": [
@@ -74,8 +62,6 @@
   {
     "slug": "war-powers-framework",
     "title": "War powers framework",
-    "folder": "statutes",
-    "summary": "The Constitution and federal war-powers framework allocate responsibilities between Congress and the President concerning the use of force.",
     "meta": {
       "type": "statute",
       "tags": [

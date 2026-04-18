@@ -1,3 +1,4 @@
+
 # Incident intake stub — John Ratcliffe
 
 ## Purpose

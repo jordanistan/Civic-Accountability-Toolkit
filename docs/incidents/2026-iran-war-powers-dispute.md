@@ -1,3 +1,4 @@
+
 # 2026 Iran war-powers dispute
 
 ## One-line summary
@@ -16,8 +17,8 @@ This is suitable for war-powers oversight requests and record preservation deman
 Request classified and unclassified briefings, preservation of legal memos, and review by relevant oversight bodies.
 
 ## Linked notes
-- Donald J Trump
-- Pete Hegseth
-- Marco Rubio
-- War Powers And International Law
-- Reuters Iran War Powers Note
+- [[people/donald-j-trump]]
+- [[people/pete-hegseth]]
+- [[people/marco-rubio]]
+- [[issues/war-powers-and-international-law]]
+- [[evidence/articles/reuters-iran-war-powers-note]]

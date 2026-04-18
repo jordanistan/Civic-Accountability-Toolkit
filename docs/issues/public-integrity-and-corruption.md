@@ -1,3 +1,4 @@
+
 # Public integrity and corruption
 
 ## Scope
@@ -9,4 +10,4 @@ Government-integrity issues involving bribery, gratuities, misuse of office, and
 - What records or money trails exist?
 
 ## Linked incidents
-- 2025 2026 Law Firm Orders
+- [[incidents/2025-2026-law-firm-orders]]

@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/incident-stub-scott-bessent
+  - incidents/2025-2026-actions-scott-bessent
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-scott-bessent
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- [[incidents/incident-stub-scott-bessent]]
+- [[incidents/2025-2026-actions-scott-bessent]]
 
 ## Relationship notes
 - [[relationships/scott-bessent--congress]]

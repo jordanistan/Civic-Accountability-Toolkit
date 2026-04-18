@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/war-powers-and-international-law
 related_incidents:
-  - incidents/incident-stub-tulsi-gabbard
+  - incidents/2025-2026-actions-tulsi-gabbard
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-tulsi-gabbard
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- [[incidents/incident-stub-tulsi-gabbard]]
+- [[incidents/2025-2026-actions-tulsi-gabbard]]
 
 ## Relationship notes
 - [[relationships/tulsi-gabbard--congress]]

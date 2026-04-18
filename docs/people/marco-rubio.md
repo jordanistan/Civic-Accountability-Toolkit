@@ -1,23 +1,24 @@
+
 # Marco Rubio
 
 ## Snapshot
 - Role: Secretary of State
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- War Powers And International Law
+- [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- 2026 Iran War Powers Dispute
+- [[incidents/2026-iran-war-powers-dispute]]
 
 ## Relationship notes
-- Marco Rubio  Congress
-- Marco Rubio  War Powers And International Law
+- [[relationships/marco-rubio--congress]]
+- [[relationships/marco-rubio--war-powers-and-international-law]]
 
 ## What is established vs not established
 ### Established

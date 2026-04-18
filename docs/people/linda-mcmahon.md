@@ -1,23 +1,24 @@
+
 # Linda McMahon
 
 ## Snapshot
 - Role: Secretary of Education
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Linda Mcmahon
+- [[incidents/2025-2026-actions-linda-mcmahon]]
 
 ## Relationship notes
-- Linda Mcmahon  Inspectors General
-- Linda Mcmahon  Public Integrity And Corruption
+- [[relationships/linda-mcmahon--inspectors-general]]
+- [[relationships/linda-mcmahon--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

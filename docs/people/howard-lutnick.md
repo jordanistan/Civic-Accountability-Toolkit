@@ -1,23 +1,24 @@
+
 # Howard Lutnick
 
 ## Snapshot
 - Role: Secretary of Commerce
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Howard Lutnick
+- [[incidents/2025-2026-actions-howard-lutnick]]
 
 ## Relationship notes
-- Howard Lutnick  Congress
-- Howard Lutnick  Public Integrity And Corruption
+- [[relationships/howard-lutnick--congress]]
+- [[relationships/howard-lutnick--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

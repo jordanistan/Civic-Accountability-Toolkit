@@ -9,12 +9,13 @@ source_tier: L1
 related_agencies:
 related_issues:
 related_incidents:
-  - incidents/incident-stub-usha-vance
+  - incidents/2025-2026-actions-usha-vance
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-usha-vance
   - evidence/articles/white-house-administration-page
 ---
 
@@ -33,7 +34,7 @@ source_notes:
 - No issue notes linked yet.
 
 ## Linked incidents
-- [[incidents/incident-stub-usha-vance]]
+- [[incidents/2025-2026-actions-usha-vance]]
 
 ## Relationship notes
 - Add relationship notes after source-backed review.

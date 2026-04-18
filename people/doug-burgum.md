@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/incident-stub-doug-burgum
+  - incidents/2025-2026-actions-doug-burgum
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-doug-burgum
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- [[incidents/incident-stub-doug-burgum]]
+- [[incidents/2025-2026-actions-doug-burgum]]
 
 ## Relationship notes
 - [[relationships/doug-burgum--congress]]

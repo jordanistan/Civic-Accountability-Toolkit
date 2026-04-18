@@ -1,32 +1,33 @@
+
 # Donald J. Trump
 
 ## Snapshot
 - Role: President of the United States
 - Group: President
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
-- Doj Public Integrity
+- [[agencies/congress]]
+- [[agencies/doj-public-integrity]]
 
 ## Linked issues
-- Immigration And Due Process
-- War Powers And International Law
-- Religion And State
-- Civil Rights And First Amendment
+- [[issues/immigration-and-due-process]]
+- [[issues/war-powers-and-international-law]]
+- [[issues/religion-and-state]]
+- [[issues/civil-rights-and-first-amendment]]
 
 ## Linked incidents
-- 2026 Birthright Citizenship Litigation
-- 2026 Iran War Powers Dispute
-- 2025 2026 Religion And State Initiatives
-- 2025 2026 Law Firm Orders
+- [[incidents/2026-birthright-citizenship-litigation]]
+- [[incidents/2026-iran-war-powers-dispute]]
+- [[incidents/2025-2026-religion-and-state-initiatives]]
+- [[incidents/2025-2026-law-firm-orders]]
 
 ## Relationship notes
-- Donald J Trump  Congress
-- Donald J Trump  Doj Public Integrity
-- Donald J Trump  Immigration And Due Process
-- Donald J Trump  War Powers And International Law
+- [[relationships/donald-j-trump--congress]]
+- [[relationships/donald-j-trump--doj-public-integrity]]
+- [[relationships/donald-j-trump--immigration-and-due-process]]
+- [[relationships/donald-j-trump--war-powers-and-international-law]]
 
 ## What is established vs not established
 ### Established

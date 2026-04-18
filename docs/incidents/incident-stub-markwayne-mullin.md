@@ -1,3 +1,4 @@
+
 # Incident intake stub — Markwayne Mullin
 
 ## Purpose

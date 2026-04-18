@@ -1,3 +1,4 @@
+
 # 2026 birthright citizenship litigation
 
 ## One-line summary
@@ -16,7 +17,7 @@ This provides a concrete constitutional litigation record relevant to constituen
 Request congressional constitutional oversight, document preservation, and review of implementation guidance.
 
 ## Linked notes
-- Donald J Trump
-- Immigration And Due Process
-- Fourteenth Amendment
-- Reuters Birthright Note
+- [[people/donald-j-trump]]
+- [[issues/immigration-and-due-process]]
+- [[statutes/fourteenth-amendment]]
+- [[evidence/articles/reuters-birthright-note]]

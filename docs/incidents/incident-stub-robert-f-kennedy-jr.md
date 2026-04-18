@@ -1,3 +1,4 @@
+
 # Incident intake stub — Robert F Kennedy Jr
 
 ## Purpose

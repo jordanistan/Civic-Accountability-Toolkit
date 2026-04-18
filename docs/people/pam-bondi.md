@@ -1,29 +1,30 @@
+
 # Pam Bondi
 
 ## Snapshot
 - Role: Attorney General
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Doj Public Integrity
-- Inspectors General
+- [[agencies/doj-public-integrity]]
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Civil Rights And First Amendment
-- Public Integrity And Corruption
-- Religion And State
+- [[issues/civil-rights-and-first-amendment]]
+- [[issues/public-integrity-and-corruption]]
+- [[issues/religion-and-state]]
 
 ## Linked incidents
-- 2025 2026 Religion And State Initiatives
-- 2025 2026 Law Firm Orders
+- [[incidents/2025-2026-religion-and-state-initiatives]]
+- [[incidents/2025-2026-law-firm-orders]]
 
 ## Relationship notes
-- Pam Bondi  Doj Public Integrity
-- Pam Bondi  Inspectors General
-- Pam Bondi  Civil Rights And First Amendment
-- Pam Bondi  Public Integrity And Corruption
+- [[relationships/pam-bondi--doj-public-integrity]]
+- [[relationships/pam-bondi--inspectors-general]]
+- [[relationships/pam-bondi--civil-rights-and-first-amendment]]
+- [[relationships/pam-bondi--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

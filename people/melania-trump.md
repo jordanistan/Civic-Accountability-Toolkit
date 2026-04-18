@@ -9,12 +9,13 @@ source_tier: L1
 related_agencies:
 related_issues:
 related_incidents:
-  - incidents/incident-stub-melania-trump
+  - incidents/2025-2026-actions-melania-trump
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-melania-trump
   - evidence/articles/white-house-administration-page
 ---
 
@@ -33,7 +34,7 @@ source_notes:
 - No issue notes linked yet.
 
 ## Linked incidents
-- [[incidents/incident-stub-melania-trump]]
+- [[incidents/2025-2026-actions-melania-trump]]
 
 ## Relationship notes
 - Add relationship notes after source-backed review.

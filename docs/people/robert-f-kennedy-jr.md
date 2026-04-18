@@ -1,23 +1,24 @@
+
 # Robert F. Kennedy Jr.
 
 ## Snapshot
 - Role: Secretary of Health and Human Services
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Robert F Kennedy Jr
+- [[incidents/2025-2026-actions-robert-f-kennedy-jr]]
 
 ## Relationship notes
-- Robert F Kennedy Jr  Inspectors General
-- Robert F Kennedy Jr  Public Integrity And Corruption
+- [[relationships/robert-f-kennedy-jr--inspectors-general]]
+- [[relationships/robert-f-kennedy-jr--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

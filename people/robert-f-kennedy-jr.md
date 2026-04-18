@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/incident-stub-robert-f-kennedy-jr
+  - incidents/2025-2026-actions-robert-f-kennedy-jr
 related_people:
   - people/donald-j-trump
   - people/jd-vance
   - people/pam-bondi
 source_notes:
+  - evidence/articles/wiki-robert-f-kennedy-jr
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- [[incidents/incident-stub-robert-f-kennedy-jr]]
+- [[incidents/2025-2026-actions-robert-f-kennedy-jr]]
 
 ## Relationship notes
 - [[relationships/robert-f-kennedy-jr--inspectors-general]]

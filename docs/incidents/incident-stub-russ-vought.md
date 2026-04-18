@@ -1,3 +1,4 @@
+
 # Incident intake stub — Russ Vought
 
 ## Purpose

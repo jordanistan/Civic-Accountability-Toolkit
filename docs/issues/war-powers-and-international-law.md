@@ -1,3 +1,4 @@
+
 # War powers and international law
 
 ## Scope
@@ -9,4 +10,4 @@ Questions about authorization for force, civilian protection, and the legal basi
 - What is documented versus alleged?
 
 ## Linked incidents
-- 2026 Iran War Powers Dispute
+- [[incidents/2026-iran-war-powers-dispute]]

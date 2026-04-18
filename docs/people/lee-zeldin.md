@@ -1,23 +1,24 @@
+
 # Lee Zeldin
 
 ## Snapshot
 - Role: Administrator of the Environmental Protection Agency
 - Group: Cabinet-level
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Lee Zeldin
+- [[incidents/2025-2026-actions-lee-zeldin]]
 
 ## Relationship notes
-- Lee Zeldin  Inspectors General
-- Lee Zeldin  Public Integrity And Corruption
+- [[relationships/lee-zeldin--inspectors-general]]
+- [[relationships/lee-zeldin--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

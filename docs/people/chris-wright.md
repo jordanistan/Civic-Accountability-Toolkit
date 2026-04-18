@@ -1,23 +1,24 @@
+
 # Chris Wright
 
 ## Snapshot
 - Role: Secretary of Energy
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Chris Wright
+- [[incidents/2025-2026-actions-chris-wright]]
 
 ## Relationship notes
-- Chris Wright  Inspectors General
-- Chris Wright  Public Integrity And Corruption
+- [[relationships/chris-wright--inspectors-general]]
+- [[relationships/chris-wright--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

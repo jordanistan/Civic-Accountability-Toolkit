@@ -2,22 +2,16 @@
   {
     "slug": "congress",
     "title": "Congress",
-    "folder": "agencies",
-    "summary": "Use your House member and Senators for hearings, oversight requests, and record-preservation asks.",
     "meta": {}
   },
   {
     "slug": "doj-public-integrity",
     "title": "DOJ Public Integrity",
-    "folder": "agencies",
-    "summary": "Specialist DOJ office for crimes affecting government integrity.",
     "meta": {}
   },
   {
     "slug": "inspectors-general",
     "title": "Inspectors General",
-    "folder": "agencies",
-    "summary": "Use agency-specific IG channels when the issue relates to agency operations, misconduct, waste, fraud, or abuse.",
     "meta": {}
   }
 ]

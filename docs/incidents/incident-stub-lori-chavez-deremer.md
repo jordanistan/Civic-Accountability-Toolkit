@@ -1,3 +1,4 @@
+
 # Incident intake stub — Lori Chavez Deremer
 
 ## Purpose

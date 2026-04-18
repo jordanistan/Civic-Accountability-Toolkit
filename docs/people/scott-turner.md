@@ -1,23 +1,24 @@
+
 # Scott Turner
 
 ## Snapshot
 - Role: Secretary of Housing and Urban Development
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Scott Turner
+- [[incidents/2025-2026-actions-scott-turner]]
 
 ## Relationship notes
-- Scott Turner  Inspectors General
-- Scott Turner  Public Integrity And Corruption
+- [[relationships/scott-turner--inspectors-general]]
+- [[relationships/scott-turner--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

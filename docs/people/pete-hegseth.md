@@ -1,25 +1,26 @@
+
 # Pete Hegseth
 
 ## Snapshot
 - Role: Secretary of Defense
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
-- Inspectors General
+- [[agencies/congress]]
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- War Powers And International Law
+- [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- 2026 Iran War Powers Dispute
+- [[incidents/2026-iran-war-powers-dispute]]
 
 ## Relationship notes
-- Pete Hegseth  Congress
-- Pete Hegseth  Inspectors General
-- Pete Hegseth  War Powers And International Law
+- [[relationships/pete-hegseth--congress]]
+- [[relationships/pete-hegseth--inspectors-general]]
+- [[relationships/pete-hegseth--war-powers-and-international-law]]
 
 ## What is established vs not established
 ### Established

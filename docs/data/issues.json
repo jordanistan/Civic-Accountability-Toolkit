@@ -2,8 +2,6 @@
   {
     "slug": "civil-rights-and-first-amendment",
     "title": "Civil rights and First Amendment",
-    "folder": "issues",
-    "summary": "Speech retaliation, access discrimination, due process, and official retaliation questions.",
     "meta": {
       "type": "issue",
       "tags": [
@@ -14,8 +12,6 @@
   {
     "slug": "immigration-and-due-process",
     "title": "Immigration and due process",
-    "folder": "issues",
-    "summary": "Constitutional and administrative-law questions related to immigration status, parole, appeals, and citizenship.",
     "meta": {
       "type": "issue",
       "tags": [
@@ -26,8 +22,6 @@
   {
     "slug": "public-integrity-and-corruption",
     "title": "Public integrity and corruption",
-    "folder": "issues",
-    "summary": "Government-integrity issues involving bribery, gratuities, misuse of office, and related public-corruption theories.",
     "meta": {
       "type": "issue",
       "tags": [
@@ -38,8 +32,6 @@
   {
     "slug": "religion-and-state",
     "title": "Religion and state",
-    "folder": "issues",
-    "summary": "Potential Establishment Clause, neutrality, and discriminatory implementation issues.",
     "meta": {
       "type": "issue",
       "tags": [
@@ -50,8 +42,6 @@
   {
     "slug": "war-powers-and-international-law",
     "title": "War powers and international law",
-    "folder": "issues",
-    "summary": "Questions about authorization for force, civilian protection, and the legal basis for military action.",
     "meta": {
       "type": "issue",
       "tags": [

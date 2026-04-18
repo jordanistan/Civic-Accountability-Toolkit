@@ -1,10 +1,11 @@
+
 # Usha Vance
 
 ## Snapshot
 - Role: Second Lady of the United States
 - Group: White House family
 - Office status: current
-- Primary source anchors: White House Administration Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]]
 
 ## Linked agencies
 - No agency review path linked yet; add when a source-backed incident is created.
@@ -13,7 +14,7 @@
 - No issue notes linked yet.
 
 ## Linked incidents
-- Incident Stub Usha Vance
+- [[incidents/2025-2026-actions-usha-vance]]
 
 ## Relationship notes
 - Add relationship notes after source-backed review.

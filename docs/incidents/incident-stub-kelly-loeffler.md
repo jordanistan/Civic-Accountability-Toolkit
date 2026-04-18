@@ -1,3 +1,4 @@
+
 # Incident intake stub — Kelly Loeffler
 
 ## Purpose

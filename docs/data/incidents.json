@@ -1,9 +1,364 @@
 [
   {
+    "slug": "2025-2026-actions-brooke-rollins",
+    "title": "2025-2026 Actions - Brooke Rollins",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-chris-wright",
+    "title": "2025-2026 Actions - Chris Wright",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-doug-burgum",
+    "title": "2025-2026 Actions - Doug Burgum",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-doug-collins",
+    "title": "2025-2026 Actions - Doug Collins",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-howard-lutnick",
+    "title": "2025-2026 Actions - Howard Lutnick",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-jamieson-greer",
+    "title": "2025-2026 Actions - Jamieson Greer",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-jd-vance",
+    "title": "2025-2026 Actions - JD Vance",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-john-ratcliffe",
+    "title": "2025-2026 Actions - John Ratcliffe",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-kelly-loeffler",
+    "title": "2025-2026 Actions - Kelly Loeffler",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-lee-zeldin",
+    "title": "2025-2026 Actions - Lee Zeldin",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-linda-mcmahon",
+    "title": "2025-2026 Actions - Linda McMahon",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-lori-chavez-deremer",
+    "title": "2025-2026 Actions - Lori Chavez-DeRemer",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-markwayne-mullin",
+    "title": "2025-2026 Actions - Markwayne Mullin",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-melania-trump",
+    "title": "2025-2026 Actions - Melania Trump",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-robert-f-kennedy-jr",
+    "title": "2025-2026 Actions - Robert F. Kennedy Jr.",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-russ-vought",
+    "title": "2025-2026 Actions - Russ Vought",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-scott-bessent",
+    "title": "2025-2026 Actions - Scott Bessent",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-scott-turner",
+    "title": "2025-2026 Actions - Scott Turner",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-sean-duffy",
+    "title": "2025-2026 Actions - Sean Duffy",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-tulsi-gabbard",
+    "title": "2025-2026 Actions - Tulsi Gabbard",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
+    "slug": "2025-2026-actions-usha-vance",
+    "title": "2025-2026 Actions - Usha Vance",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "automated-intake"
+      ],
+      "source_tier": "L3",
+      "confidence": "medium",
+      "people": "",
+      "issues": "",
+      "evidence": ""
+    }
+  },
+  {
     "slug": "2025-2026-law-firm-orders",
     "title": "2025\u20132026 law firm orders litigation",
-    "folder": "incidents",
-    "summary": "Court challenges to executive actions targeting law firms raised First and Fifth Amendment issues.",
     "meta": {
       "type": "incident",
       "status": "active",
@@ -21,8 +376,6 @@
   {
     "slug": "2025-2026-religion-and-state-initiatives",
     "title": "2025\u20132026 religion and state initiatives",
-    "folder": "incidents",
-    "summary": "The administration created religion-related initiatives that may warrant Establishment Clause scrutiny depending on implementation.",
     "meta": {
       "type": "incident",
       "status": "active",
@@ -40,8 +393,6 @@
   {
     "slug": "2026-birthright-citizenship-litigation",
     "title": "2026 birthright citizenship litigation",
-    "folder": "incidents",
-    "summary": "Lower courts reportedly found the administration\u2019s birthright-citizenship policy inconsistent with the Fourteenth Amendment and federal law.",
     "meta": {
       "type": "incident",
       "status": "active",
@@ -59,8 +410,6 @@
   {
     "slug": "2026-iran-war-powers-dispute",
     "title": "2026 Iran war-powers dispute",
-    "folder": "incidents",
-    "summary": "Congressional and expert criticism of the administration\u2019s Iran campaign raised war-powers and international-law concerns.",
     "meta": {
       "type": "incident",
       "status": "active",

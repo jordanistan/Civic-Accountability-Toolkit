@@ -1,23 +1,24 @@
+
 # Kelly Loeffler
 
 ## Snapshot
 - Role: Administrator of the Small Business Administration
 - Group: Cabinet-level
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Kelly Loeffler
+- [[incidents/2025-2026-actions-kelly-loeffler]]
 
 ## Relationship notes
-- Kelly Loeffler  Congress
-- Kelly Loeffler  Public Integrity And Corruption
+- [[relationships/kelly-loeffler--congress]]
+- [[relationships/kelly-loeffler--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

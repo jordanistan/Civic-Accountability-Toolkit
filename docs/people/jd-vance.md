@@ -1,23 +1,24 @@
+
 # JD Vance
 
 ## Snapshot
 - Role: Vice President of the United States
 - Group: Vice President
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- Civil Rights And First Amendment
+- [[issues/civil-rights-and-first-amendment]]
 
 ## Linked incidents
-- Incident Stub Jd Vance
+- [[incidents/2025-2026-actions-jd-vance]]
 
 ## Relationship notes
-- Jd Vance  Congress
-- Jd Vance  Civil Rights And First Amendment
+- [[relationships/jd-vance--congress]]
+- [[relationships/jd-vance--civil-rights-and-first-amendment]]
 
 ## What is established vs not established
 ### Established

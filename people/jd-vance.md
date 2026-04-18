@@ -11,12 +11,13 @@ related_agencies:
 related_issues:
   - issues/civil-rights-and-first-amendment
 related_incidents:
-  - incidents/incident-stub-jd-vance
+  - incidents/2025-2026-actions-jd-vance
 related_people:
   - people/donald-j-trump
   - people/pam-bondi
   - people/pete-hegseth
 source_notes:
+  - evidence/articles/wiki-jd-vance
   - evidence/articles/white-house-administration-page
   - evidence/articles/white-house-cabinet-page
 ---
@@ -36,7 +37,7 @@ source_notes:
 - [[issues/civil-rights-and-first-amendment]]
 
 ## Linked incidents
-- [[incidents/incident-stub-jd-vance]]
+- [[incidents/2025-2026-actions-jd-vance]]
 
 ## Relationship notes
 - [[relationships/jd-vance--congress]]

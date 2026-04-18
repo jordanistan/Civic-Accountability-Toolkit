@@ -1,3 +1,4 @@
+
 # Incident intake stub — Lee Zeldin
 
 ## Purpose

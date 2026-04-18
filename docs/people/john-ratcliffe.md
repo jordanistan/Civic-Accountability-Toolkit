@@ -1,23 +1,24 @@
+
 # John Ratcliffe
 
 ## Snapshot
 - Role: Director of the Central Intelligence Agency
 - Group: Cabinet-level
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- War Powers And International Law
+- [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- Incident Stub John Ratcliffe
+- [[incidents/2025-2026-actions-john-ratcliffe]]
 
 ## Relationship notes
-- John Ratcliffe  Congress
-- John Ratcliffe  War Powers And International Law
+- [[relationships/john-ratcliffe--congress]]
+- [[relationships/john-ratcliffe--war-powers-and-international-law]]
 
 ## What is established vs not established
 ### Established

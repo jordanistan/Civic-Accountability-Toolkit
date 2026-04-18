@@ -1,23 +1,24 @@
+
 # Tulsi Gabbard
 
 ## Snapshot
 - Role: Director of National Intelligence
 - Group: Cabinet-level
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- War Powers And International Law
+- [[issues/war-powers-and-international-law]]
 
 ## Linked incidents
-- Incident Stub Tulsi Gabbard
+- [[incidents/2025-2026-actions-tulsi-gabbard]]
 
 ## Relationship notes
-- Tulsi Gabbard  Congress
-- Tulsi Gabbard  War Powers And International Law
+- [[relationships/tulsi-gabbard--congress]]
+- [[relationships/tulsi-gabbard--war-powers-and-international-law]]
 
 ## What is established vs not established
 ### Established

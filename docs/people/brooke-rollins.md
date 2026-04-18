@@ -1,23 +1,24 @@
+
 # Brooke Rollins
 
 ## Snapshot
 - Role: Secretary of Agriculture
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Brooke Rollins
+- [[incidents/2025-2026-actions-brooke-rollins]]
 
 ## Relationship notes
-- Brooke Rollins  Inspectors General
-- Brooke Rollins  Public Integrity And Corruption
+- [[relationships/brooke-rollins--inspectors-general]]
+- [[relationships/brooke-rollins--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

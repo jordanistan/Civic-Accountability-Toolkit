@@ -1,3 +1,4 @@
+
 # 2025–2026 religion and state initiatives
 
 ## One-line summary
@@ -16,7 +17,7 @@ Useful for constituent requests focused on constitutional neutrality and impleme
 Request implementation records, nondiscrimination safeguards, and constitutional review.
 
 ## Linked notes
-- Donald J Trump
-- Pam Bondi
-- Religion And State
-- Reuters Religion State Note
+- [[people/donald-j-trump]]
+- [[people/pam-bondi]]
+- [[issues/religion-and-state]]
+- [[evidence/articles/reuters-religion-state-note]]

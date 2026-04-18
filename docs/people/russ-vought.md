@@ -1,23 +1,24 @@
+
 # Russ Vought
 
 ## Snapshot
 - Role: Director of the Office of Management and Budget
 - Group: Executive Office
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Congress
+- [[agencies/congress]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Russ Vought
+- [[incidents/2025-2026-actions-russ-vought]]
 
 ## Relationship notes
-- Russ Vought  Congress
-- Russ Vought  Public Integrity And Corruption
+- [[relationships/russ-vought--congress]]
+- [[relationships/russ-vought--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established

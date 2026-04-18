@@ -1,3 +1,4 @@
+
 # Religion and state
 
 ## Scope
@@ -9,4 +10,4 @@ Potential Establishment Clause, neutrality, and discriminatory implementation is
 - Is there differential treatment?
 
 ## Linked incidents
-- 2025 2026 Religion And State Initiatives
+- [[incidents/2025-2026-religion-and-state-initiatives]]

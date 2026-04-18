@@ -1,3 +1,4 @@
+
 # Incident intake stub — Doug Collins
 
 ## Purpose

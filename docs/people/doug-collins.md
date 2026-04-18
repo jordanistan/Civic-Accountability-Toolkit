@@ -1,23 +1,24 @@
+
 # Doug Collins
 
 ## Snapshot
 - Role: Secretary of Veterans Affairs
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: White House Administration Page, White House Cabinet Page
+- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
 ## Linked agencies
-- Inspectors General
+- [[agencies/inspectors-general]]
 
 ## Linked issues
-- Public Integrity And Corruption
+- [[issues/public-integrity-and-corruption]]
 
 ## Linked incidents
-- Incident Stub Doug Collins
+- [[incidents/2025-2026-actions-doug-collins]]
 
 ## Relationship notes
-- Doug Collins  Inspectors General
-- Doug Collins  Public Integrity And Corruption
+- [[relationships/doug-collins--inspectors-general]]
+- [[relationships/doug-collins--public-integrity-and-corruption]]
 
 ## What is established vs not established
 ### Established
