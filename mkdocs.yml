@@ -17,6 +17,7 @@ nav:
   - Issues: issues.md
   - Statutes: statutes.md
   - Agencies: agencies.md
+  - Graph View: graph-view.md
   - Source Reliability: sourcing-standard.md
   - Safe Civic Use: safe-civic-use.md
   - Contribution Guide: contributing.md
@@ -28,5 +29,3 @@ markdown_extensions:
       permalink: true
 extra_css:
   - assets/extra.css
-
-  - Graph View: graph-view.md
