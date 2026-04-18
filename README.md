@@ -1,55 +1,41 @@
-# Civic Accountability Repo v5 v4
+# Civic Accountability Toolkit
 
-Evidence-first civic accountability toolkit for public-record review, constituent outreach, and oversight requests.
+An evidence-first toolkit designed to empower citizens to organize public facts, track incidents with reliable sources, and send fact-based oversight requests to their representatives.
 
-## What is new in v4
-- Public-facing docs site starter with guided navigation
-- Generated people / incident / issue / statute reference pages for GitHub Pages
-- Search-friendly JSON data exports for future site upgrades
-- GitHub Actions workflows for docs deployment and repo validation
-- Better dashboards for daily use in Obsidian
-- Packet generator scripts for daily outreach and issue-based summaries
-- Contribution rules, review labels, and intake templates
+## Why This Exists
 
-## Core principles
-- Do not state guilt unless there is a final finding or conviction.
-- Link every claim to a source note.
-- Separate **what happened**, **what may apply legally**, and **what still needs proof**.
-- Prefer official records and court orders over commentary.
-- Use respectful, non-defamatory outreach.
+In a complex political landscape, it is crucial to separate documented facts from allegations and commentary. This toolkit provides a structured, neutral framework for:
+- Tracking actions and statements made by public figures.
+- Linking every claim directly to verified public records or reliable reporting.
+- Empowering ordinary citizens to write informed, respectful, and effective letters to oversight committees and elected officials.
 
-## Quick start
-1. Clone the repo.
-2. Open it in Obsidian or your editor.
-3. Start at `00_HOME.md` or `docs/index.md`.
-4. Review one incident note in `incidents/`.
-5. Use `templates/citizen-letter-template.md` or generate a draft packet.
-6. Run `python scripts/sync_docs.py` after adding or editing notes.
+## How to Get Started
 
-## Recommended daily flow
-1. Open `dashboards/DAILY_ACTION_BOARD.md`.
-2. Pick one incident with solid sourcing.
-3. Review linked evidence and open questions.
-4. Generate or adapt a neutral outreach letter.
-5. Send it to your Representative, Senators, or the relevant oversight office.
-6. Log what you sent and what still needs evidence.
+The best way to use this toolkit is as a local knowledge base.
 
-## Deployment
-- GitHub Pages via MkDocs + GitHub Actions
-- Works locally as a Markdown vault in Obsidian
-- Future-ready for GitHub Pages search and data-driven views
+1. **Clone or Download:** Clone this repository to your local machine.
+2. **Open the Vault:** For the best experience, download [Obsidian](https://obsidian.md/) (a free, Markdown-based note-taking app) and open the `civic-accountability` folder as a new vault.
+3. **Start Exploring:** Open the `00_HOME.md` file to see the main dashboard, or browse the `people/` and `incidents/` folders to read documented cases.
+4. **Review the Evidence:** Each incident links directly to sources in the `evidence/` folder. Review these to understand what is documented versus what remains unresolved.
+5. **Take Action:** Use the `templates/citizen-letter-template.md` to draft a neutral, fact-based oversight request and send it to your Representative, Senators, or the relevant oversight office.
 
-## Safety and credibility
-This repo is designed for **civic accountability and oversight requests**, not for harassment or unsupported accusations. Keep claims tied to sources, separate allegations from findings, and use official contact channels.
+## Core Principles
 
+We hold ourselves to a high standard of civic participation:
+- **Evidence-First:** Link every single claim to a verifiable source note.
+- **Remain Neutral:** Separate *what happened* (documented facts) from *what may apply legally* and *what still needs proof*.
+- **Presumption of Innocence:** Do not state guilt unless there is a final legal finding or conviction.
+- **Respectful Outreach:** Use official channels and maintain a professional, non-defamatory tone.
 
-## v5 roster expansion
-This version expands the people layer to 25 current administration figures listed on the official White House administration and cabinet pages. The people index, docs site, and JSON exports were refreshed so users can browse, tag, and connect incident notes more easily.
-## New in v6
+## Safe Civic Use
 
-- relationship notes for graph-friendly links
-- person-to-agency and person-to-issue routing
-- incident stubs for uncovered roster figures
-- docs exports for people, incidents, issues, statutes, agencies, and relationships
-- Dataview starter queries for Obsidian
-- JSON exports for future site filters
+This repository is designed strictly for **lawful civic participation**, public-record review, and oversight requests.
+
+**Not Allowed:**
+- Threats, harassment, or doxxing.
+- Fabricated claims or presenting allegations as convictions.
+- Spam or abusive outreach campaigns.
+
+---
+
+*For detailed documentation, contribution guidelines, and advanced workflows, please visit our [Documentation Site](https://jordanistan.github.io/Civic-Accountability-Toolkit/) or browse the `docs/` folder.*
