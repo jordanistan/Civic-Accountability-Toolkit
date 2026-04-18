@@ -6,11 +6,8 @@ DOCS = ROOT / 'docs'
 FOLDERS = ['people', 'incidents', 'issues', 'statutes', 'agencies']
 
 def parse_frontmatter(text: str):
-    if text.startswith('---
-'):
-        end = text.find('
----
-', 4)
+    if text.startswith('---\n'):
+        end = text.find('\n---\n', 4)
         if end != -1:
             return text[4:end], text[end+5:]
     return '', text
@@ -23,9 +20,9 @@ def parse_yamlish(fm: str):
         key, value = line.split(':', 1)
         key = key.strip(); value = value.strip()
         if value.startswith('[') and value.endswith(']'):
-            data[key] = [x.strip().strip('"'') for x in value[1:-1].split(',') if x.strip()]
+            data[key] = [x.strip().strip('"\'') for x in value[1:-1].split(',') if x.strip()]
         else:
-            data[key] = value.strip('"')
+            data[key] = value.strip('"\'')
     return data
 
 for folder in FOLDERS:
