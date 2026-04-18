@@ -1,8 +1,13 @@
 site_name: Civic Accountability Toolkit
 site_description: Evidence-first civic toolkit for public records, oversight requests, and linked case notes.
-site_url: https://example.github.io/civic-accountability-toolkit/
+site_url: https://jordanistan.github.io/Civic-Accountability-Toolkit/
 theme:
-  name: mkdocs
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
 nav:
   - Home: index.md
   - How to Use: how-to-use.md
