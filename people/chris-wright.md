@@ -11,15 +11,9 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-chris-wright
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-doe-loan-portfolio-cuts
 source_notes:
   - evidence/articles/wiki-chris-wright
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Chris Wright
@@ -28,30 +22,23 @@ source_notes:
 - Role: Secretary of Energy
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. DOE Loan Portfolio Cancellation ($80 Billion)
+- **Action:** 2025 restructuring of the DOE loan portfolio, canceling Biden-era grants for renewable projects and redirecting funds toward "American Energy Dominance" initiatives (coal, gas, nuclear).
+- **Alleged Violation:** Impoundment Control Act (if funds were withheld without congressional approval) and potential violation of the Bipartisan Infrastructure Law statutory spending requirements.
+- **Status:** Portfolio restructuring complete; legal challenges pending.
+- **Link:** [[incidents/2025-doe-loan-portfolio-cuts]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-chris-wright]]
+### 2. Rejection of Net-Zero Carbon Goals
+- **Action:** Issued a Secretarial Order in early 2025 officially rejecting net-zero carbon goals as department-level priorities.
+- **Impact:** Significant shift in national energy research and development funding.
+- **Link:** [[incidents/2025-doe-loan-portfolio-cuts]]
 
-## Relationship notes
-- [[relationships/chris-wright--inspectors-general]]
-- [[relationships/chris-wright--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the legal justification for canceling hundreds of previously awarded renewable energy grants and an audit of the redistribution of those funds to fossil fuel initiatives.

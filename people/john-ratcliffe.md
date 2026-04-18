@@ -2,56 +2,44 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Director of the Central Intelligence Agency"
-group: "Cabinet-level"
+role: "CIA Director"
+group: "Intelligence"
 office_status: current
 source_tier: L1
 related_agencies:
-  - agencies/congress
+  - agencies/inspectors-general
 related_issues:
-  - issues/war-powers-and-international-law
+  - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-john-ratcliffe
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-intelligence-retractions-order
+  - incidents/2025-signalgate-classified-sharing
 source_notes:
   - evidence/articles/wiki-john-ratcliffe
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # John Ratcliffe
 
 ## Snapshot
-- Role: Director of the Central Intelligence Agency
-- Group: Cabinet-level
+- Role: CIA Director
+- Group: Intelligence
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/war-powers-and-international-law]]
+### 1. Intelligence Retractions (Political Bias Allegations)
+- **Action:** February 2026. Ordered the formal retraction and revision of previous intelligence assessments (e.g., on white supremacist extremism), citing failure to meet "analytic tradecraft standards."
+- **Alleged Violation:** Potential violation of the Intelligence Reform and Terrorism Prevention Act (IRTPA) regarding the objectivity and independence of intelligence analysis.
+- **Status:** Active revisions in process.
+- **Link:** [[incidents/2026-intelligence-retractions-order]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-john-ratcliffe]]
+### 2. Agency Protective Shielding
+- **Action:** Successfully negotiated to exclude the CIA from the 25% "DOGE" mass layoffs applied to other intelligence agencies.
+- **Impact:** Maintained current staffing levels (~20,000) while other IC components were reduced.
+- **Link:** [[incidents/2025-odni-workforce-reduction]] (Contextual contrast)
 
-## Relationship notes
-- [[relationships/john-ratcliffe--congress]]
-- [[relationships/john-ratcliffe--war-powers-and-international-law]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/war-powers-framework]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request an evaluation from the CIA Inspector General on whether the February 2026 intelligence retractions were based on documented analytic failures or represented an improper injection of policy considerations into intelligence products.

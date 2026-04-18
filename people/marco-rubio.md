@@ -11,14 +11,10 @@ related_agencies:
 related_issues:
   - issues/war-powers-and-international-law
 related_incidents:
+  - incidents/2025-usaid-program-purge
   - incidents/2026-iran-war-powers-dispute
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
 source_notes:
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
+  - evidence/articles/wiki-marco-rubio
 ---
 
 # Marco Rubio
@@ -27,30 +23,24 @@ source_notes:
 - Role: Secretary of State
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/war-powers-and-international-law]]
+### 1. USAID Dissolution
+- **Action:** March 2025. Oversaw the elimination of 83% of USAID programs and folded remaining staff into the State Department.
+- **Alleged Violation:** Impoundment Control Act (if funds were withheld without congressional approval) and potential violation of statutory mandates for foreign assistance.
+- **Status:** Implemented.
+- **Link:** [[incidents/2025-usaid-program-purge]]
 
-## Linked incidents
-- [[incidents/2026-iran-war-powers-dispute]]
+### 2. International Withdrawal Orders
+- **Action:** January 2026. Unilateral withdrawal of the U.S. from several international organizations without Senate consultation.
+- **Alleged Violation:** Treaty Clause concerns and violation of funding statutes.
+- **Status:** Ongoing.
+- **Link:** [[incidents/2026-iran-war-powers-dispute]] (Contextual connection)
 
-## Relationship notes
-- [[relationships/marco-rubio--congress]]
-- [[relationships/marco-rubio--war-powers-and-international-law]]
+## Linked Statutes
+- [[statutes/war-powers-framework]]
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request a legal analysis of the USAID consolidation and any OLC guidance on the executive's authority to unilaterally dissolve agencies created by statute.

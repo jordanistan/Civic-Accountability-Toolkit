@@ -7,19 +7,14 @@ group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
-  - agencies/congress
+  - agencies/inspectors-general
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-doug-burgum
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-interior-energy-emergency-order
+  - incidents/2026-nps-historical-removal-order
 source_notes:
   - evidence/articles/wiki-doug-burgum
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Doug Burgum
@@ -28,30 +23,24 @@ source_notes:
 - Role: Secretary of the Interior
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. National Energy Emergency (Order 3417)
+- **Action:** Feb 3, 2025. Declared a "national energy emergency" to bypass environmental review periods for drilling and mining on federal lands.
+- **Alleged Violation:** National Environmental Policy Act (NEPA), Administrative Procedure Act (APA).
+- **Status:** Implemented; subject to multiple environmental challenges.
+- **Link:** [[incidents/2025-interior-energy-emergency-order]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-doug-burgum]]
+### 2. NPS "Sanitization" Order (Order 3431)
+- **Action:** May 2025 directive to remove National Park Service exhibits and signs related to slavery and Indigenous displacement deemed "divisive."
+- **Alleged Violation:** Violation of statutory mandates for the National Park Service to preserve and interpret American history.
+- **Status:** Litigation active as of Feb 2026 (*Historical Preservation Groups v. Burgum*).
+- **Link:** [[incidents/2026-nps-historical-removal-order]]
 
-## Relationship notes
-- [[relationships/doug-burgum--congress]]
-- [[relationships/doug-burgum--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all communication between the Office of the Secretary and the National Park Service regarding the criteria for "divisive" historical content and the legal basis for declaring a "national energy emergency" for routine drilling permits.

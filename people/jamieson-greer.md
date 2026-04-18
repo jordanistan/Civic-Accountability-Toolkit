@@ -2,8 +2,8 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "United States Trade Representative"
-group: "Cabinet-level"
+role: "U.S. Trade Representative"
+group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
@@ -11,47 +11,34 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-jamieson-greer
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-usmca-reimagination-dispute
 source_notes:
   - evidence/articles/wiki-jamieson-greer
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Jamieson Greer
 
 ## Snapshot
-- Role: United States Trade Representative
-- Group: Cabinet-level
+- Role: U.S. Trade Representative (USTR)
+- Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. USMCA Mandatory Review
+- **Action:** Initiated the six-year review of the USMCA in early 2026, threatening withdrawal unless significant concessions are made by Canada and Mexico.
+- **Alleged Violation:** Potential violation of treaty obligations and trade statutes if tariffs are imposed unilaterally during the review period.
+- **Status:** Active negotiations.
+- **Link:** [[incidents/2026-usmca-reimagination-dispute]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-jamieson-greer]]
+### 2. "Year of the Tariff" Leverage
+- **Action:** Used the threat of broad tariffs to negotiate the "Turnberry Agreement" with the EU and framework deals with South Korea and Japan.
+- **Alleged Violation:** Separation of powers concerns regarding the executive's use of IEEPA for trade tariffs following recent SCOTUS limitations.
+- **Status:** Active strategy.
 
-## Relationship notes
-- [[relationships/jamieson-greer--congress]]
-- [[relationships/jamieson-greer--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/war-powers-framework]] (Economic emergency context)
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request a legal assessment of the USTR's authority to impose tariffs under IEEPA following the 2025 Supreme Court ruling on executive economic emergency powers.

@@ -2,7 +2,7 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Secretary of Housing and Urban Development"
+role: "Secretary of HUD"
 group: "Cabinet"
 office_status: current
 source_tier: L1
@@ -11,47 +11,35 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-scott-turner
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-homelessness-grant-restructuring
 source_notes:
   - evidence/articles/wiki-scott-turner
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Scott Turner
 
 ## Snapshot
-- Role: Secretary of Housing and Urban Development
+- Role: Secretary of Housing and Urban Development (HUD)
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Homelessness Grant Competitive Restructuring
+- **Action:** 2025. Announced $3.9 billion in grants with a new requirement that 70% of projects be competitively bid, shifting away from long-term "Housing First" providers.
+- **Alleged Violation:** Administrative Procedure Act (APA) concerns regarding the sudden change in grant eligibility and "self-sufficiency" criteria.
+- **Status:** Implementation active.
+- **Link:** [[incidents/2025-homelessness-grant-restructuring]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-scott-turner]]
+### 2. Repeal of Affirmatively Furthering Fair Housing (AFFH)
+- **Action:** 2025. Terminated the AFFH rule which required local governments to proactively address segregation.
+- **Alleged Violation:** Fair Housing Act (FHA) statutory mandates.
+- **Status:** Subject to civil rights litigation.
+- **Link:** [[incidents/2025-affh-rule-repeal]]
 
-## Relationship notes
-- [[relationships/scott-turner--inspectors-general]]
-- [[relationships/scott-turner--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the legal justification for the termination of the AFFH rule and an IG review of the selection criteria for the new transitional housing grant awards.

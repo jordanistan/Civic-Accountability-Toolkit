@@ -10,16 +10,12 @@ related_agencies:
   - agencies/congress
 related_issues:
   - issues/public-integrity-and-corruption
+  - issues/immigration-and-due-process
 related_incidents:
-  - incidents/2025-2026-actions-scott-bessent
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-bank-citizenship-reporting-order
+  - incidents/2025-2026-funding-freezes-blue-states
 source_notes:
   - evidence/articles/wiki-scott-bessent
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Scott Bessent
@@ -28,30 +24,23 @@ source_notes:
 - Role: Secretary of the Treasury
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Bank Citizenship Reporting Order
+- **Action:** April 2026 announcement of a pending executive order requiring all U.S. banks to collect and report the citizenship status of account holders to the Treasury.
+- **Alleged Violation:** 4th Amendment (Privacy/Search), Potential violation of the Privacy Act.
+- **Status:** Directive in development.
+- **Link:** [[incidents/2026-bank-citizenship-reporting-order]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-scott-bessent]]
+### 2. EITC Exclusion for Non-Citizens
+- **Action:** November 2025 reclassification of tax credits (EITC) as "federal public benefits" to prevent claims by undocumented residents.
+- **Alleged Violation:** Statutory interpretation concerns regarding the Internal Revenue Code and equal protection principles.
+- **Status:** Implemented.
 
-## Relationship notes
-- [[relationships/scott-bessent--congress]]
-- [[relationships/scott-bessent--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/fourteenth-amendment]]
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the legal analysis for the bank citizenship reporting requirement and an evaluation of its impact on the privacy rights of legal residents and U.S. citizens.

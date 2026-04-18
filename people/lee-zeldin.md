@@ -2,8 +2,8 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Administrator of the Environmental Protection Agency"
-group: "Cabinet-level"
+role: "EPA Administrator"
+group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
@@ -11,47 +11,29 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-lee-zeldin
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-epa-endangerment-repeal
 source_notes:
   - evidence/articles/wiki-lee-zeldin
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Lee Zeldin
 
 ## Snapshot
-- Role: Administrator of the Environmental Protection Agency
-- Group: Cabinet-level
+- Role: EPA Administrator
+- Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Repeal of Greenhouse Gas Endangerment Finding
+- **Action:** February 2026. Finalized the repeal of the 2009 finding, eliminating federal emission standards for vehicles (2012-2027).
+- **Alleged Violation:** Clean Air Act (CAA) violations, failure to adhere to the Administrative Procedure Act (APA) regarding scientific evidence.
+- **Status:** Litigation active (*California et al. v. EPA*, March 2026).
+- **Link:** [[incidents/2026-epa-endangerment-repeal]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-lee-zeldin]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## Relationship notes
-- [[relationships/lee-zeldin--inspectors-general]]
-- [[relationships/lee-zeldin--public-integrity-and-corruption]]
-
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the scientific record used to justify the repeal of the Endangerment Finding and any correspondence with industry lobbyists prior to the February 2026 announcement.

@@ -2,56 +2,47 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Administrator of the Small Business Administration"
-group: "Cabinet-level"
+role: "SBA Administrator"
+group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
-  - agencies/congress
+  - agencies/inspectors-general
 related_issues:
   - issues/public-integrity-and-corruption
+  - issues/immigration-and-due-process
 related_incidents:
-  - incidents/2025-2026-actions-kelly-loeffler
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-sba-citizenship-requirement
+  - incidents/2026-sba-office-relocations
 source_notes:
   - evidence/articles/wiki-kelly-loeffler
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Kelly Loeffler
 
 ## Snapshot
-- Role: Administrator of the Small Business Administration
-- Group: Cabinet-level
+- Role: Small Business Administration (SBA) Administrator
+- Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Citizenship-Based Loan Eligibility
+- **Action:** 2025 policy implementation requiring citizenship verification for all SBA loan applications and banning undocumented immigrants from assistance.
+- **Alleged Violation:** Potential violation of equal protection principles and statutory eligibility rules for SBA programs.
+- **Status:** Implemented.
+- **Link:** [[incidents/2025-sba-citizenship-requirement]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-kelly-loeffler]]
+### 2. Relocation of Regional Offices
+- **Action:** March 2026. Moved six regional offices out of "sanctuary cities" (NYC, Chicago, Seattle) to non-sanctuary jurisdictions.
+- **Alleged Violation:** Administrative Procedure Act (APA) concerns regarding the justification for office relocation based on local immigration policy.
+- **Status:** Active.
+- **Link:** [[incidents/2026-sba-office-relocations]]
 
-## Relationship notes
-- [[relationships/kelly-loeffler--congress]]
-- [[relationships/kelly-loeffler--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/fifth-amendment-due-process]]
+- [[statutes/fourteenth-amendment]]
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request a cost-benefit analysis for the relocation of the six regional SBA offices and any legal guidance regarding the exclusion of legal permanent residents from specific SBA assistance programs.

@@ -11,15 +11,9 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-doug-collins
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-va-workforce-reduction
 source_notes:
   - evidence/articles/wiki-doug-collins
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Doug Collins
@@ -28,30 +22,24 @@ source_notes:
 - Role: Secretary of Veterans Affairs
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. VA Workforce Reduction (72,000 Positions)
+- **Action:** March 2025. Announced the termination of 72,000 non-clinical positions (15% of the VA workforce).
+- **Alleged Violation:** Potential violation of civil service protections and statutory requirements for veteran benefit administration staffing.
+- **Status:** Implemented; reductions continuing into 2026.
+- **Link:** [[incidents/2025-va-workforce-reduction]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-doug-collins]]
+### 2. Elimination of DEI Policies
+- **Action:** 2025 termination of all Diversity, Equity, and Inclusion programs and redirecting $14 million in related funding.
+- **Alleged Violation:** Potential violation of Executive Orders or statutes regarding equitable access to veteran services.
+- **Status:** Complete.
+- **Link:** [[incidents/2025-va-workforce-reduction]] (Categorical update)
 
-## Relationship notes
-- [[relationships/doug-collins--inspectors-general]]
-- [[relationships/doug-collins--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request an evaluation of the impact of the 72,000 position reduction on the processing times for veteran disability claims and a legal justification for the redirection of DEI-appropriated funds.

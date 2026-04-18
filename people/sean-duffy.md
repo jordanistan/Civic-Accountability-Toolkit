@@ -11,15 +11,10 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-sean-duffy
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-trucking-language-purge
+  - incidents/2026-infrastructure-funding-redirection
 source_notes:
   - evidence/articles/wiki-sean-duffy
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Sean Duffy
@@ -28,30 +23,24 @@ source_notes:
 - Role: Secretary of Transportation
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Trucking Industry "English Purge"
+- **Action:** 2025 removal of 11,000 drivers from the workforce for failing English proficiency standards and shutting down 7,500 CDL training schools.
+- **Alleged Violation:** Potential violation of civil rights statutes regarding national origin discrimination and due process in license revocations.
+- **Status:** Implemented.
+- **Link:** [[incidents/2025-trucking-language-purge]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-sean-duffy]]
+### 2. Infrastructure Funding Redirection
+- **Action:** Redirected billions in funding away from previously approved "green" infrastructure (California high-speed rail, offshore wind) toward traditional road capacity.
+- **Alleged Violation:** Potential violation of the Impoundment Control Act and statutory funding mandates.
+- **Status:** Ongoing.
+- **Link:** [[incidents/2026-infrastructure-funding-redirection]]
 
-## Relationship notes
-- [[relationships/sean-duffy--inspectors-general]]
-- [[relationships/sean-duffy--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the legal basis for the mass revocation of CDL licenses based on English proficiency and a breakdown of the redirected "green" infrastructure funds.

@@ -3,51 +3,40 @@ type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
 role: "First Lady of the United States"
-group: "White House family"
+group: "First Family"
 office_status: current
 source_tier: L1
-related_agencies:
 related_issues:
+  - issues/civil-rights-and-first-amendment
 related_incidents:
-  - incidents/2025-2026-actions-melania-trump
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-take-it-down-act
+  - incidents/2025-fostering-the-future-eo
 source_notes:
   - evidence/articles/wiki-melania-trump
-  - evidence/articles/white-house-administration-page
 ---
 
 # Melania Trump
 
 ## Snapshot
 - Role: First Lady of the United States
-- Group: White House family
+- Group: First Family
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]]
 
-## Linked agencies
-- No agency review path linked yet; add when a source-backed incident is created.
+## Documented Initiatives (2025-2026)
 
-## Linked issues
-- No issue notes linked yet.
+### 1. Take It Down Act (May 2025)
+- **Action:** Primary advocate for the legislation criminalizing non-consensual sharing of intimate images, specifically targeting AI deepfakes.
+- **Impact:** Signed into law May 2025.
+- **Link:** [[incidents/2025-take-it-down-act]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-melania-trump]]
+### 2. "Fostering the Future" Executive Order
+- **Action:** Initiated November 2025 executive order to improve education and technology access for foster youth.
+- **Impact:** Global Summit held March 2026.
+- **Link:** [[incidents/2025-fostering-the-future-eo]]
 
-## Relationship notes
-- Add relationship notes after source-backed review.
+## Linked Statutes
+- [[statutes/first-amendment]] (Contextual connection to AI legislation)
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Review the Department of Justice's implementation of the Take It Down Act and its impact on digital privacy protections.

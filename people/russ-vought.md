@@ -2,8 +2,8 @@
 type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Director of the Office of Management and Budget"
-group: "Executive Office"
+role: "Director of OMB / DOGE Lead"
+group: "Executive"
 office_status: current
 source_tier: L1
 related_agencies:
@@ -11,47 +11,35 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-russ-vought
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-2026-funding-freezes-blue-states
+  - incidents/2025-impoundment-control-dispute
 source_notes:
   - evidence/articles/wiki-russ-vought
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Russ Vought
 
 ## Snapshot
-- Role: Director of the Office of Management and Budget
-- Group: Executive Office
-- Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
+- Role: Director of the Office of Management and Budget (OMB)
+- Status: De facto head of DOGE (Department of Government Efficiency).
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. "Blue State" Funding Freezes
+- **Action:** 2025-2026. Frozen or canceled billions in authorized funding for climate projects and infrastructure in specific states (e.g., $18B for NYC).
+- **Alleged Violation:** Impoundment Control Act of 1974.
+- **Status:** Subject to multiple state-level lawsuits.
+- **Link:** [[incidents/2025-2026-funding-freezes-blue-states]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-russ-vought]]
+### 2. Sidelining the GAO
+- **Action:** Issued guidance in late 2025 to federal agencies to ignore Government Accountability Office (GAO) inquiries and oversight.
+- **Alleged Violation:** Violation of statutory oversight mandates for the GAO.
+- **Status:** Active dispute with Congress.
+- **Link:** [[incidents/2025-impoundment-control-dispute]]
 
-## Relationship notes
-- [[relationships/russ-vought--congress]]
-- [[relationships/russ-vought--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/war-powers-framework]] (Budgetary context)
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all OLC memos regarding the legal authority to withhold congressionally appropriated funds for specific states based on "financial governance" criteria.

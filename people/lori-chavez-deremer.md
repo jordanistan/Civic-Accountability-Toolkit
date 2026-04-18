@@ -7,19 +7,13 @@ group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
-  - agencies/congress
+  - agencies/inspectors-general
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-lori-chavez-deremer
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-labor-ethics-investigations
 source_notes:
   - evidence/articles/wiki-lori-chavez-deremer
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Lori Chavez-DeRemer
@@ -28,30 +22,24 @@ source_notes:
 - Role: Secretary of Labor
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Ethics and Misconduct Investigations
+- **Action:** Subject of 2026 Inspector General and EEO investigations regarding hostile workplace claims, travel fraud, and improper use of staff for personal errands.
+- **Alleged Violation:** 5 C.F.R. § 2635 (Standards of Ethical Conduct for Employees of the Executive Branch).
+- **Status:** Ongoing investigation.
+- **Link:** [[incidents/2026-labor-ethics-investigations]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-lori-chavez-deremer]]
+### 2. Spousal Misconduct Controversy
+- **Action:** Her husband, Shawn DeRemer, was banned from the Labor Department building in April 2026 following allegations of sexual assault against employees.
+- **Alleged Violation:** Failure to maintain a safe work environment and potential conflict of interest in access control.
+- **Status:** Internal ban implemented April 2026.
+- **Link:** [[incidents/2026-labor-ethics-investigations]]
 
-## Relationship notes
-- [[relationships/lori-chavez-deremer--congress]]
-- [[relationships/lori-chavez-deremer--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request the full Inspector General report regarding travel fraud allegations and a summary of all EEO complaints filed against the Office of the Secretary since January 2025.

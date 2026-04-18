@@ -7,51 +7,40 @@ group: "Cabinet"
 office_status: current
 source_tier: L1
 related_agencies:
-  - agencies/congress
+  - agencies/inspectors-general
 related_issues:
-  - issues/public-integrity-and-corruption
+  - issues/immigration-and-due-process
 related_incidents:
-  - incidents/2025-2026-actions-markwayne-mullin
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2026-mass-deportation-transport-logistics
+  - incidents/2026-sanctuary-airport-customs-withdrawal
 source_notes:
   - evidence/articles/wiki-markwayne-mullin
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Markwayne Mullin
 
 ## Snapshot
-- Role: Secretary of Homeland Security
+- Role: Secretary of Homeland Security (Confirmed March 2026)
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Withdrawal of Customs from Sanctuary Airports
+- **Action:** April 2026. Announced the consideration of withdrawing U.S. Customs and Border Protection (CBP) agents from international airports in "sanctuary cities" to force compliance with federal immigration law.
+- **Alleged Violation:** Potential violation of federal mandates for aviation security and interstate commerce regulations.
+- **Status:** Active consideration / Initial directives.
+- **Link:** [[incidents/2026-sanctuary-airport-customs-withdrawal]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-markwayne-mullin]]
+### 2. ICE "Transport" Mechanism for Mass Deportations
+- **Action:** March 2026. Directed ICE to act as a "transport" mechanism for large-scale removals, utilizing judicial warrants for home entries.
+- **Alleged Violation:** 4th Amendment (Search and Seizure) concerns regarding the scope and execution of residential warrants in mass enforcement.
+- **Status:** Commencing.
+- **Link:** [[incidents/2026-mass-deportation-transport-logistics]]
 
-## Relationship notes
-- [[relationships/markwayne-mullin--congress]]
-- [[relationships/markwayne-mullin--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/immigration-due-process]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all OLC memos and DHS legal assessments regarding the legality of withdrawing federal customs agents from major international transit hubs based on municipal "sanctuary" policies.

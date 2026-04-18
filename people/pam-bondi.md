@@ -1,66 +1,50 @@
 ---
 type: person
-status: rostered
+status: fired
 tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Attorney General"
+role: "Attorney General (Former)"
 group: "Cabinet"
-office_status: current
+office_status: former
 source_tier: L1
 related_agencies:
   - agencies/doj-public-integrity
-  - agencies/inspectors-general
 related_issues:
-  - issues/civil-rights-and-first-amendment
   - issues/public-integrity-and-corruption
-  - issues/religion-and-state
+  - issues/civil-rights-and-first-amendment
 related_incidents:
-  - incidents/2025-2026-religion-and-state-initiatives
-  - incidents/2025-2026-law-firm-orders
+  - incidents/2025-dei-prosecution-memo
+  - incidents/2026-epstein-files-controversy
 related_people:
   - people/donald-j-trump
-  - people/jd-vance
-  - people/pete-hegseth
 source_notes:
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
+  - evidence/articles/wiki-pam-bondi
 ---
 
 # Pam Bondi
 
 ## Snapshot
-- Role: Attorney General
-- Group: Cabinet
-- Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
+- Role: Former Attorney General (Feb 2025 – April 2026)
+- Status: Fired by President Trump on April 2, 2026.
+- Successor: Todd Blanche (Acting)
 
-## Linked agencies
-- [[agencies/doj-public-integrity]]
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/civil-rights-and-first-amendment]]
-- [[issues/public-integrity-and-corruption]]
-- [[issues/religion-and-state]]
+### 1. DEI Prosecution Memorandum
+- **Action:** Issued Feb 2025 directive to investigate private sector DEI programs as potential civil rights violations.
+- **Alleged Violation:** 1st Amendment (Freedom of Association), 5th Amendment (Due Process).
+- **Status:** Subject to multiple private sector injunctions.
+- **Link:** [[incidents/2025-dei-prosecution-memo]]
 
-## Linked incidents
-- [[incidents/2025-2026-religion-and-state-initiatives]]
-- [[incidents/2025-2026-law-firm-orders]]
+### 2. Epstein Files Transparency Dispute
+- **Action:** Refusal to release documents requested under the "Epstein Transparency Act" and declining to testify before Congress.
+- **Alleged Violation:** Contempt of Congress (potential), Violation of statutory transparency mandates.
+- **Status:** Leading cause of her April 2026 termination.
+- **Link:** [[incidents/2026-epstein-files-controversy]]
 
-## Relationship notes
-- [[relationships/pam-bondi--doj-public-integrity]]
-- [[relationships/pam-bondi--inspectors-general]]
-- [[relationships/pam-bondi--civil-rights-and-first-amendment]]
-- [[relationships/pam-bondi--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/first-amendment]]
+- [[statutes/fifth-amendment-due-process]]
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all internal DOJ correspondence regarding the legal basis for the 2025 DEI memo and any OLC guidance provided regarding the Epstein Transparency Act.

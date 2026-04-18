@@ -9,17 +9,11 @@ source_tier: L1
 related_agencies:
   - agencies/inspectors-general
 related_issues:
-  - issues/public-integrity-and-corruption
+  - issues/civil-rights-and-first-amendment
 related_incidents:
-  - incidents/2025-2026-actions-linda-mcmahon
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-education-workforce-layoffs
 source_notes:
   - evidence/articles/wiki-linda-mcmahon
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Linda McMahon
@@ -28,30 +22,24 @@ source_notes:
 - Role: Secretary of Education
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. Mass Layoffs (50% Staff Reduction)
+- **Action:** March 2025. Ordered the layoff of 50% of the Department of Education workforce.
+- **Alleged Violation:** Violation of civil service protections.
+- **Status:** The Supreme Court permitted the layoffs to proceed in July 2025 after lower court blocks.
+- **Link:** [[incidents/2025-education-workforce-layoffs]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-linda-mcmahon]]
+### 2. "Patriotic Education" Grant Priority
+- **Action:** September 2025. Introduced new federal grant priorities favoring curriculum that emphasizes "unbiased" American history and founding principles while removing DEI.
+- **Alleged Violation:** Potential 1st Amendment concerns regarding viewpoint discrimination in federal funding.
+- **Status:** Active.
+- **Link:** [[incidents/2025-patriotic-education-directive]]
 
-## Relationship notes
-- [[relationships/linda-mcmahon--inspectors-general]]
-- [[relationships/linda-mcmahon--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/first-amendment]]
+- [[statutes/public-integrity-statutes]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request a list of all Department of Education functions and statutory mandates that are currently unstaffed or under-staffed following the 2025 workforce reductions.

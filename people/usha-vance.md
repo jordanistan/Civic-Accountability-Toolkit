@@ -3,51 +3,32 @@ type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
 role: "Second Lady of the United States"
-group: "White House family"
+group: "First Family"
 office_status: current
 source_tier: L1
-related_agencies:
-related_issues:
+related_issues: []
 related_incidents:
-  - incidents/2025-2026-actions-usha-vance
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-summer-reading-challenge
+  - incidents/2026-storytime-podcast-launch
 source_notes:
   - evidence/articles/wiki-usha-vance
-  - evidence/articles/white-house-administration-page
 ---
 
 # Usha Vance
 
 ## Snapshot
 - Role: Second Lady of the United States
-- Group: White House family
+- Group: First Family
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]]
 
-## Linked agencies
-- No agency review path linked yet; add when a source-backed incident is created.
+## Documented Initiatives (2025-2026)
 
-## Linked issues
-- No issue notes linked yet.
+### 1. Literacy and Education Platforms
+- **Action:** Launched the "Summer Reading Challenge" (2025) and the "Storytime with the Second Lady" podcast (2026) to address pandemic-era reading loss in children.
+- **Link:** [[incidents/2026-storytime-podcast-launch]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-usha-vance]]
+### 2. Special Olympics Advocacy
+- **Action:** Increased federal visibility and involvement with the Special Olympics as a primary ceremonial platform.
 
-## Relationship notes
-- Add relationship notes after source-backed review.
-
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Review the Department of Education's coordination with the Office of the Second Lady on the distribution of "Summer Reading" grants.

@@ -11,15 +11,9 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-brooke-rollins
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-usda-rd-dei-memo
 source_notes:
   - evidence/articles/wiki-brooke-rollins
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Brooke Rollins
@@ -28,30 +22,18 @@ source_notes:
 - Role: Secretary of Agriculture
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. USDA R&D DEI Memo (December 2025)
+- **Action:** Signed memorandum removing DEI and environmental justice frameworks from all USDA research funding.
+- **Alleged Violation:** Potential violation of civil rights statutes regarding equitable access to federal research grants.
+- **Status:** Implemented; monitoring for impact.
+- **Link:** [[incidents/2025-usda-rd-dei-memo]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-brooke-rollins]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## Relationship notes
-- [[relationships/brooke-rollins--inspectors-general]]
-- [[relationships/brooke-rollins--public-integrity-and-corruption]]
-
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request an evaluation from the USDA Inspector General on the impact of the 2025 R&D memo on minority-serving land-grant universities and their historical funding levels.

@@ -11,47 +11,36 @@ related_agencies:
 related_issues:
   - issues/public-integrity-and-corruption
 related_incidents:
-  - incidents/2025-2026-actions-robert-f-kennedy-jr
-related_people:
-  - people/donald-j-trump
-  - people/jd-vance
-  - people/pam-bondi
+  - incidents/2025-hhs-workforce-purge
+  - incidents/2026-vaccine-schedule-litigation
 source_notes:
   - evidence/articles/wiki-robert-f-kennedy-jr
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # Robert F. Kennedy Jr.
 
 ## Snapshot
-- Role: Secretary of Health and Human Services
+- Role: Secretary of Health and Human Services (HHS)
 - Group: Cabinet
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/inspectors-general]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/public-integrity-and-corruption]]
+### 1. HHS Workforce Purge & Reorganization
+- **Action:** March 2025. Announced plan to lay off 10,000 employees and collapse 28 agencies into 15.
+- **Alleged Violation:** Violation of civil service laws and statutory requirements for agency structure.
+- **Status:** Partially blocked by preliminary injunction (April 2025).
+- **Link:** [[incidents/2025-hhs-workforce-purge]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-robert-f-kennedy-jr]]
+### 2. Vaccine Schedule Revision (Administrative Procedure Act)
+- **Action:** February 2026. Unilateral revision of the national vaccine schedule without public comment periods.
+- **Alleged Violation:** Administrative Procedure Act (APA) violations.
+- **Status:** Litigation active (*14 States v. HHS*, Feb 2026).
+- **Link:** [[incidents/2026-vaccine-schedule-litigation]]
 
-## Relationship notes
-- [[relationships/robert-f-kennedy-jr--inspectors-general]]
-- [[relationships/robert-f-kennedy-jr--public-integrity-and-corruption]]
+## Linked Statutes
+- [[statutes/public-integrity-statutes]]
+- [[statutes/fifth-amendment-due-process]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all internal memos regarding the decision to bypass APA public comment requirements for the 2026 vaccine schedule revisions and a breakdown of the 10,000 positions targeted for removal.

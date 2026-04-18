@@ -3,55 +3,47 @@ type: person
 status: rostered
 tags: [person, civic-accountability, administration-roster, graph-node]
 role: "Vice President of the United States"
-group: "Vice President"
+group: "Executive"
 office_status: current
 source_tier: L1
 related_agencies:
   - agencies/congress
 related_issues:
+  - issues/public-integrity-and-corruption
   - issues/civil-rights-and-first-amendment
 related_incidents:
-  - incidents/2025-2026-actions-jd-vance
+  - incidents/2026-fraud-czar-task-force
+  - incidents/2025-signalgate-classified-sharing
 related_people:
   - people/donald-j-trump
-  - people/pam-bondi
-  - people/pete-hegseth
 source_notes:
   - evidence/articles/wiki-jd-vance
-  - evidence/articles/white-house-administration-page
-  - evidence/articles/white-house-cabinet-page
 ---
 
 # JD Vance
 
 ## Snapshot
 - Role: Vice President of the United States
-- Group: Vice President
+- Group: Executive
 - Office status: current
-- Primary source anchors: [[evidence/articles/white-house-administration-page]], [[evidence/articles/white-house-cabinet-page]]
 
-## Linked agencies
-- [[agencies/congress]]
+## Alleged Legal & Constitutional Challenges (2025-2026)
 
-## Linked issues
-- [[issues/civil-rights-and-first-amendment]]
+### 1. "Fraud Czar" Task Force
+- **Action:** Appointed March 2026 to lead the "Task Force to Eliminate Fraud," targeting specific state-level administrative processes.
+- **Alleged Violation:** 10th Amendment (State Sovereignty), Potential Due Process concerns regarding federal interference in state election/benefit administration.
+- **Status:** Active.
+- **Link:** [[incidents/2026-fraud-czar-task-force]]
 
-## Linked incidents
-- [[incidents/2025-2026-actions-jd-vance]]
+### 2. "Signalgate" (Classified Data Sharing)
+- **Action:** 2025 participation in an encrypted Signal group where classified military data regarding Yemen airstrikes was allegedly shared with unauthorized parties.
+- **Alleged Violation:** 18 U.S.C. § 793 (Espionage Act) regarding the handling of national defense information.
+- **Status:** Subject of House Oversight inquiry (April 2026).
+- **Link:** [[incidents/2025-signalgate-classified-sharing]]
 
-## Relationship notes
-- [[relationships/jd-vance--congress]]
-- [[relationships/jd-vance--civil-rights-and-first-amendment]]
+## Linked Statutes
+- [[statutes/fifth-amendment-due-process]]
+- [[statutes/war-powers-framework]]
 
-## What is established vs not established
-### Established
-- Current official role listed on official White House pages.
-- Only source-backed incident links should be treated as review leads.
-
-### Not established
-- Personal guilt for any crime unless a final finding or conviction exists.
-- Any unsupported social-media or rumor-based allegation.
-
-## Open questions
-- What official actions, approvals, or communications connect this person to a specific incident?
-- What records, witnesses, or source documents would reduce uncertainty?
+## Suggested Oversight Ask
+Request all metadata and logs from the Signal communications identified in the "Signalgate" inquiry and a legal justification for the Task Force to Eliminate Fraud's jurisdiction over blue-state administrative records.
