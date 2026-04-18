@@ -391,6 +391,109 @@
     }
   },
   {
+    "slug": "2025-affh-rule-repeal",
+    "title": "2025 AFFH Rule Repeal",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2025-fbi-personnel-purge",
+    "title": "2025 FBI Personnel Purge",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2025-odni-workforce-reduction",
+    "title": "2025 ODNI Workforce Reduction",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2025-signalgate-classified-sharing",
+    "title": "2025 Signalgate Classified Sharing",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "national-security"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2025-trucking-language-purge",
+    "title": "2025 Trucking Language Purge",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2026-bank-citizenship-reporting-order",
+    "title": "2026 Bank Citizenship Reporting Order",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
     "slug": "2026-birthright-citizenship-litigation",
     "title": "2026 birthright citizenship litigation",
     "meta": {
@@ -405,6 +508,58 @@
       "issues": "",
       "statutes": "",
       "evidence": ""
+    }
+  },
+  {
+    "slug": "2026-epa-endangerment-repeal",
+    "title": "2026 EPA Endangerment Repeal",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident",
+        "environmental-law"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2026-fraud-czar-task-force",
+    "title": "2026 Fraud Czar Task Force",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
+    }
+  },
+  {
+    "slug": "2026-intelligence-retractions-order",
+    "title": "2026 Intelligence Retractions Order",
+    "meta": {
+      "type": "incident",
+      "status": "active",
+      "tags": [
+        "incident"
+      ],
+      "source_tier": "L2",
+      "confidence": "high",
+      "people": "",
+      "issues": "",
+      "statutes": "",
+      "evidence": []
     }
   },
   {

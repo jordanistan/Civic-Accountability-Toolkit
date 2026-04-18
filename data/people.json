@@ -18,7 +18,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -41,7 +40,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -87,7 +85,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -110,7 +107,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -133,7 +129,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -149,14 +144,13 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "United States Trade Representative",
-      "group": "Cabinet-level",
+      "role": "U.S. Trade Representative",
+      "group": "Cabinet",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -173,7 +167,7 @@
         "graph-node"
       ],
       "role": "Vice President of the United States",
-      "group": "Vice President",
+      "group": "Executive",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
@@ -195,15 +189,36 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "Director of the Central Intelligence Agency",
-      "group": "Cabinet-level",
+      "role": "CIA Director",
+      "group": "Intelligence",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
+    }
+  },
+  {
+    "slug": "kash-patel",
+    "title": "Kash Patel",
+    "meta": {
+      "type": "person",
+      "status": "rostered",
+      "tags": [
+        "person",
+        "civic-accountability",
+        "administration-roster",
+        "graph-node"
+      ],
+      "role": "FBI Director",
+      "group": "Justice",
+      "office_status": "current",
+      "source_tier": "L1",
+      "related_agencies": "",
+      "related_issues": "",
+      "related_incidents": "",
+      "source_notes": []
     }
   },
   {
@@ -218,14 +233,13 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "Administrator of the Small Business Administration",
-      "group": "Cabinet-level",
+      "role": "SBA Administrator",
+      "group": "Cabinet",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -241,14 +255,13 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "Administrator of the Environmental Protection Agency",
-      "group": "Cabinet-level",
+      "role": "EPA Administrator",
+      "group": "Cabinet",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -271,7 +284,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -294,7 +306,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -317,7 +328,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -340,7 +350,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -357,13 +366,11 @@
         "graph-node"
       ],
       "role": "First Lady of the United States",
-      "group": "White House family",
+      "group": "First Family",
       "office_status": "current",
       "source_tier": "L1",
-      "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -372,16 +379,16 @@
     "title": "Pam Bondi",
     "meta": {
       "type": "person",
-      "status": "rostered",
+      "status": "fired",
       "tags": [
         "person",
         "civic-accountability",
         "administration-roster",
         "graph-node"
       ],
-      "role": "Attorney General",
+      "role": "Attorney General (Former)",
       "group": "Cabinet",
-      "office_status": "current",
+      "office_status": "former",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
@@ -409,7 +416,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -432,7 +438,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -448,14 +453,13 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "Director of the Office of Management and Budget",
-      "group": "Executive Office",
+      "role": "Director of OMB / DOGE Lead",
+      "group": "Executive",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -478,7 +482,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -494,14 +497,13 @@
         "administration-roster",
         "graph-node"
       ],
-      "role": "Secretary of Housing and Urban Development",
+      "role": "Secretary of HUD",
       "group": "Cabinet",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -524,7 +526,6 @@
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -541,13 +542,12 @@
         "graph-node"
       ],
       "role": "Director of National Intelligence",
-      "group": "Cabinet-level",
+      "group": "Intelligence",
       "office_status": "current",
       "source_tier": "L1",
       "related_agencies": "",
       "related_issues": "",
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   },
@@ -564,13 +564,11 @@
         "graph-node"
       ],
       "role": "Second Lady of the United States",
-      "group": "White House family",
+      "group": "First Family",
       "office_status": "current",
       "source_tier": "L1",
-      "related_agencies": "",
-      "related_issues": "",
+      "related_issues": [],
       "related_incidents": "",
-      "related_people": "",
       "source_notes": ""
     }
   }
