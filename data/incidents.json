@@ -423,22 +423,5 @@
       "statutes": "",
       "evidence": ""
     }
-  },
-  {
-    "slug": "2026-voter-roll-purge-order",
-    "title": "2026 Voter Roll Purge Order (EO 14399)",
-    "meta": {
-      "type": "incident",
-      "status": "active",
-      "tags": [
-        "incident"
-      ],
-      "source_tier": "L2",
-      "confidence": "high",
-      "people": "",
-      "issues": "",
-      "statutes": "",
-      "evidence": []
-    }
   }
 ]
