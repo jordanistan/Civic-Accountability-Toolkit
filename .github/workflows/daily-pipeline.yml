@@ -1,0 +1,35 @@
+name: Daily Research Pipeline
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-and-validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Run Daily Intake
+        run: python scripts/daily_intake.py
+        
+      - name: Validate Data Integrity
+        run: python scripts/validator.py
+        
+      - name: Create Pull Request for New Data
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Daily Pipeline: Automated Intake Report"
+          title: "Daily Intake Report: New Research Discovered"
+          body: "The daily intake script has identified potential updates in Tier 1 sources. Please review the new reports in `incidents/daily_reports/`."
+          branch: "automated-daily-intake"
+          base: "main"
