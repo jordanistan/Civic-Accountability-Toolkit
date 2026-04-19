@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Evidence-first civic toolkit for public records, oversight requests, and linked case notes.">
+        <meta name="description" content="Evidence-first research database for civic oversight.">
       
       
       
@@ -31,6 +31,9 @@
     
       <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
       
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
+      
       
 
 
@@ -48,8 +51,6 @@
       
     
     
-      <link rel="stylesheet" href="assets/extra.css">
-    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -59,7 +60,14 @@
   </head>
   
   
-    <body dir="ltr">
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -110,6 +118,32 @@
         </div>
       </div>
     </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
     
     
       <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
@@ -262,10 +296,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#why-this-exists" class="md-nav__link">
+  <a href="#project-architecture" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Why This Exists
+        Project Architecture
       
     </span>
   </a>
@@ -273,10 +307,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-get-started" class="md-nav__link">
+  <a href="#data-integrity-rules" class="md-nav__link">
     <span class="md-ellipsis">
       
-        How to Get Started
+        Data Integrity Rules
       
     </span>
   </a>
@@ -284,10 +318,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#core-principles" class="md-nav__link">
+  <a href="#getting-started-for-researchers" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Core Principles
+        Getting Started for Researchers
       
     </span>
   </a>
@@ -295,10 +329,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#safe-civic-use" class="md-nav__link">
+  <a href="#engineering-workflow" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Safe Civic Use
+        Engineering Workflow
       
     </span>
   </a>
@@ -319,27 +353,9 @@
   
   
   
-    
-    
-    
-    
-      
+    <li class="md-nav__item">
+      <a href="people/" class="md-nav__link">
         
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
-            
   
   
   <span class="md-ellipsis">
@@ -353,110 +369,20 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_2">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    People
+      </a>
+    </li>
   
 
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
+    
+      
+      
   
   
   
   
     <li class="md-nav__item">
-      <a href="people/" class="md-nav__link">
+      <a href="incidents/" class="md-nav__link">
         
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Index
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="people/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Detailed Profiles
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-        
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
-            
   
   
   <span class="md-ellipsis">
@@ -470,110 +396,20 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Incidents
+      </a>
+    </li>
   
 
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
+    
+      
+      
   
   
   
   
     <li class="md-nav__item">
-      <a href="incidents/" class="md-nav__link">
+      <a href="issues/" class="md-nav__link">
         
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Index
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="incidents/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Detailed Records
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-        
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
-        
-          
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
-            
   
   
   <span class="md-ellipsis">
@@ -587,110 +423,20 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_4">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Issues
+      </a>
+    </li>
   
 
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
+    
+      
+      
   
   
   
   
     <li class="md-nav__item">
-      <a href="issues/" class="md-nav__link">
+      <a href="statutes/" class="md-nav__link">
         
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Index
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="issues/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Categories
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-        
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
-        
-          
-          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
-            
   
   
   <span class="md-ellipsis">
@@ -704,110 +450,20 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_5">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Statutes
+      </a>
+    </li>
   
 
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
+    
+      
+      
   
   
   
   
     <li class="md-nav__item">
-      <a href="statutes/" class="md-nav__link">
+      <a href="agencies/" class="md-nav__link">
         
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Index
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="statutes/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    All Statutes
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    
-    
-    
-    
-      
-        
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
-            
   
   
   <span class="md-ellipsis">
@@ -821,79 +477,34 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_6">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Agencies
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="agencies/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Index
-  
-
-    
-  </span>
-  
-  
-
       </a>
     </li>
   
 
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="agencies/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
     
-  
-    Directory
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
       
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="SOURCE_STANDARDS/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Verification Standards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
     </li>
   
 
@@ -925,10 +536,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#why-this-exists" class="md-nav__link">
+  <a href="#project-architecture" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Why This Exists
+        Project Architecture
       
     </span>
   </a>
@@ -936,10 +547,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#how-to-get-started" class="md-nav__link">
+  <a href="#data-integrity-rules" class="md-nav__link">
     <span class="md-ellipsis">
       
-        How to Get Started
+        Data Integrity Rules
       
     </span>
   </a>
@@ -947,10 +558,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#core-principles" class="md-nav__link">
+  <a href="#getting-started-for-researchers" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Core Principles
+        Getting Started for Researchers
       
     </span>
   </a>
@@ -958,10 +569,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#safe-civic-use" class="md-nav__link">
+  <a href="#engineering-workflow" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Safe Civic Use
+        Engineering Workflow
       
     </span>
   </a>
@@ -985,36 +596,42 @@
 
 
 
-<h1 id="civic-accountability-toolkit">Civic Accountability Toolkit<a class="headerlink" href="#civic-accountability-toolkit" title="Permanent link">&para;</a></h1>
-<p>An evidence-first toolkit designed to empower citizens to organize public facts, track incidents with reliable sources, and send fact-based oversight requests to their representatives.</p>
-<h2 id="why-this-exists">Why This Exists<a class="headerlink" href="#why-this-exists" title="Permanent link">&para;</a></h2>
-<p>In a complex political landscape, it is crucial to separate documented facts from allegations and commentary. This toolkit provides a structured, neutral framework for:
-- Tracking actions and statements made by public figures.
-- Linking every claim directly to verified public records or reliable reporting.
-- Empowering ordinary citizens to write informed, respectful, and effective letters to oversight committees and elected officials.</p>
-<h2 id="how-to-get-started">How to Get Started<a class="headerlink" href="#how-to-get-started" title="Permanent link">&para;</a></h2>
-<p>The best way to use this toolkit is as a local knowledge base.</p>
+<h1 id="civic-accountability-toolkit">Civic Accountability Toolkit</h1>
+<p>An evidence-first, high-detail research platform designed to empower citizens to organize public facts, track incidents with reliable sources, and send fact-based oversight requests.</p>
+<h2 id="project-architecture">Project Architecture</h2>
+<p>This repository uses a dual-branch architecture to separate research source code from the public-facing website.</p>
 <ol>
-<li><strong>Clone or Download:</strong> Clone this repository to your local machine.</li>
-<li><strong>Open the Vault:</strong> For the best experience, download <a href="https://obsidian.md/">Obsidian</a> (a free, Markdown-based note-taking app) and open the <code>civic-accountability</code> folder as a new vault.</li>
-<li><strong>Start Exploring:</strong> Open the <code>00_HOME.md</code> file to see the main dashboard, or browse the <code>people/</code> and <code>incidents/</code> folders to read documented cases.</li>
-<li><strong>Review the Evidence:</strong> Each incident links directly to sources in the <code>evidence/</code> folder. Review these to understand what is documented versus what remains unresolved.</li>
-<li><strong>Take Action:</strong> Use the <code>templates/citizen-letter-template.md</code> to draft a neutral, fact-based oversight request and send it to your Representative, Senators, or the relevant oversight office.</li>
+<li><strong><code>main</code> Branch (Source of Truth):</strong></li>
+<li>Contains the core research vault (Markdown files with rich YAML frontmatter).</li>
+<li>Optimized for local use, research, and <strong>Obsidian</strong> graph-view.</li>
+<li>
+<p>Houses the data pipeline, validation scripts, and site generators.</p>
+</li>
+<li>
+<p><strong><code>gh-pages</code> Branch (Website):</strong></p>
+</li>
+<li>Automatically generated and updated via GitHub Actions.</li>
+<li>Serves the production website at: <a href="https://jordanistan.github.io/Civic-Accountability-Toolkit/">https://jordanistan.github.io/Civic-Accountability-Toolkit/</a></li>
 </ol>
-<h2 id="core-principles">Core Principles<a class="headerlink" href="#core-principles" title="Permanent link">&para;</a></h2>
-<p>We hold ourselves to a high standard of civic participation:
-- <strong>Evidence-First:</strong> Link every single claim to a verifiable source note.
-- <strong>Remain Neutral:</strong> Separate <em>what happened</em> (documented facts) from <em>what may apply legally</em> and <em>what still needs proof</em>.
-- <strong>Presumption of Innocence:</strong> Do not state guilt unless there is a final legal finding or conviction.
-- <strong>Respectful Outreach:</strong> Use official channels and maintain a professional, non-defamatory tone.</p>
-<h2 id="safe-civic-use">Safe Civic Use<a class="headerlink" href="#safe-civic-use" title="Permanent link">&para;</a></h2>
-<p>This repository is designed strictly for <strong>lawful civic participation</strong>, public-record review, and oversight requests.</p>
-<p><strong>Not Allowed:</strong>
-- Threats, harassment, or doxxing.
-- Fabricated claims or presenting allegations as convictions.
-- Spam or abusive outreach campaigns.</p>
-<hr />
-<p><em>For detailed documentation, contribution guidelines, and advanced workflows, please visit our <a href="https://jordanistan.github.io/Civic-Accountability-Toolkit/">Documentation Site</a> or browse the <code>docs/</code> folder.</em></p>
+<h2 id="data-integrity-rules">Data Integrity Rules</h2>
+<ul>
+<li><strong>Evidence-First:</strong> Every claim must be linked to a verifiable source note.</li>
+<li><strong>Neutrality:</strong> We distinguish clearly between "What is documented" (court findings, official records) and "What is alleged" (reported disputes).</li>
+<li><strong>Source Tiers:</strong> Strict reliability ranking from Tier 1 (Official Records) to Tier 4 (Commentary).</li>
+<li><strong>Presumption of Innocence:</strong> Guilt is never stated as fact without a final legal judgment.</li>
+</ul>
+<h2 id="getting-started-for-researchers">Getting Started for Researchers</h2>
+<ol>
+<li><strong>Clone the Repo:</strong> <code>git clone https://github.com/jordanistan/Civic-Accountability-Toolkit.git</code></li>
+<li><strong>Local Browsing:</strong> Use any Markdown editor. For the best experience, open the root folder in <a href="https://obsidian.md/">Obsidian</a>.</li>
+<li><strong>Contribute:</strong> Read <code>CONTRIBUTING.md</code> and <code>SOURCE_STANDARDS.md</code> before submitting updates.</li>
+</ol>
+<h2 id="engineering-workflow">Engineering Workflow</h2>
+<ul>
+<li><strong>Validation:</strong> <code>python scripts/validator.py</code> ensures all records meet schema requirements and links are sound.</li>
+<li><strong>Local Build:</strong> <code>python scripts/generator.py</code> prepares the site locally for testing.</li>
+<li><strong>Deploy:</strong> Merging to <code>main</code> triggers the production build and deployment to GitHub Pages.</li>
+</ul>
 
 
 
@@ -1070,7 +687,7 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.sections", "navigation.top", "navigation.expand", "search.suggest", "search.highlight"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.sections", "navigation.top", "search.suggest", "search.highlight"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
