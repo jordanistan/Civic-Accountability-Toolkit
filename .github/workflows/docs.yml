@@ -13,9 +13,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python scripts/validate_repo.py
+      - run: python scripts/validator.py
       - run: pip install mkdocs-material
-      - run: python scripts/sync_docs.py
+      - run: python scripts/generator.py
       - run: mkdocs build
       - uses: peaceiris/actions-gh-pages@v3
         with:
