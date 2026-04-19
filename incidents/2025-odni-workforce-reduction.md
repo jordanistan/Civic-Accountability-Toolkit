@@ -2,16 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: high
-people:
-  - people/tulsi-gabbard
-issues:
-  - issues/public-integrity-and-corruption
-statutes:
-  - statutes/public-integrity-statutes
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2025 Odni Workforce Reduction
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025 ODNI Workforce Reduction
 

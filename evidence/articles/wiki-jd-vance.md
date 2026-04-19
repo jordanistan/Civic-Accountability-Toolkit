@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/JD%20Vance"
-people:
-  - people/jd-vance
+people: 
+title: Wiki Jd Vance
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: JD Vance
 

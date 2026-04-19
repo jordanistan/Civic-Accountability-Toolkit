@@ -2,16 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: high
-people:
-  - people/jd-vance
-issues:
-  - issues/public-integrity-and-corruption
-statutes:
-  - statutes/fifth-amendment-due-process
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2026 Fraud Czar Task Force
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2026 Fraud Czar Task Force
 

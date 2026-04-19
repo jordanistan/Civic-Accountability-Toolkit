@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Markwayne%20Mullin"
-people:
-  - people/markwayne-mullin
+people: 
+title: Wiki Markwayne Mullin
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Markwayne Mullin
 

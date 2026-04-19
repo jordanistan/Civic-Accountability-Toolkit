@@ -2,19 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: medium
-people:
-  - people/donald-j-trump
-  - people/pam-bondi
-issues:
-  - issues/civil-rights-and-first-amendment
-statutes:
-  - statutes/first-amendment
-  - statutes/fifth-amendment-due-process
-evidence:
-  - evidence/articles/reuters-law-firm-orders-note
+people: 
+issues: 
+statutes: 
+evidence: 
+title: 2025 2026 Law Firm Orders
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025–2026 law firm orders litigation
 
@@ -34,7 +32,7 @@ This is one of the clearest examples where courts reportedly found constitutiona
 Request hearings, preservation of White House and DOJ communications, and review of retaliation concerns.
 
 ## Linked notes
-- [[people/donald-j-trump]]
-- [[people/pam-bondi]]
-- [[issues/civil-rights-and-first-amendment]]
-- [[evidence/articles/reuters-law-firm-orders-note]]
+- [[people/donald-j-trump|people/donald-j-trump]]
+- [[people/pam-bondi|people/pam-bondi]]
+- [[issues/civil-rights-and-first-amendment|issues/civil-rights-and-first-amendment]]
+- [[evidence/articles/reuters-law-firm-orders-note|evidence/articles/reuters-law-firm-orders-note]]

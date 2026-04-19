@@ -1,17 +1,18 @@
 ---
 type: incident
 status: active
-tags: [incident, environmental-law]
-source_tier: L2
+tags: "[incident, environmental-law]"
 confidence: high
-people:
-  - people/lee-zeldin
-issues:
-  - issues/public-integrity-and-corruption
-statutes:
-  - statutes/fifth-amendment-due-process
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2026 Epa Endangerment Repeal
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2026 EPA Endangerment Repeal
 

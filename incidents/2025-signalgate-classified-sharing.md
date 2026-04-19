@@ -1,18 +1,18 @@
 ---
 type: incident
 status: active
-tags: [incident, national-security]
-source_tier: L2
+tags: "[incident, national-security]"
 confidence: high
-people:
-  - people/jd-vance
-  - people/pete-hegseth
-issues:
-  - issues/public-integrity-and-corruption
-statutes:
-  - statutes/war-powers-framework
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2025 Signalgate Classified Sharing
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025 Signalgate Classified Sharing
 

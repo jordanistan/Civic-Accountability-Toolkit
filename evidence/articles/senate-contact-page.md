@@ -1,11 +1,14 @@
 ---
 type: evidence
 status: active
-tags: [evidence, source, official]
+tags: "[evidence, source, official]"
 source_tier: L1
-source_type: "official contact page"
+source_type: official contact page
 url: "https://www.senate.gov/senators/senators-contact.htm"
+title: Senate Contact Page
+summary: Evidentiary source document.
 ---
+
 
 # U.S. Senate contact page
 

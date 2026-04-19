@@ -1,11 +1,10 @@
 ---
 type: statute
-tags: [statute]
+title: War Powers Resolution of 1973
+summary: A federal law intended to check the U.S. president's power to commit the United States to an armed conflict without the consent of the U.S. Congress.
+relevance: Governs the legality of military strikes like Operation Epic Fury.
 ---
-# War powers framework
 
-## Plain-English note
-The Constitution and federal war-powers framework allocate responsibilities between Congress and the President concerning the use of force.
 
-## In this repo
-Used to frame oversight questions about authorization, reporting, and legal basis.
+# War Powers Resolution
+Statutory framework for executive-legislative balance in military conflict.

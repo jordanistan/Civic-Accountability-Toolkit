@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Chris%20Wright"
-people:
-  - people/chris-wright
+people: 
+title: Wiki Chris Wright
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Chris Wright
 

@@ -1,11 +1,14 @@
 ---
 type: evidence
 status: active
-tags: [evidence, source, official]
+tags: "[evidence, source, official]"
 source_tier: L1
-source_type: "official contact / office page"
+source_type: official contact / office page
 url: "https://www.justice.gov/criminal/criminal-pin"
+title: Doj Public Integrity Section
+summary: Evidentiary source document.
 ---
+
 
 # DOJ Public Integrity Section
 

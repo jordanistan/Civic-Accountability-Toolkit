@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Linda%20McMahon"
-people:
-  - people/linda-mcmahon
+people: 
+title: Wiki Linda Mcmahon
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Linda McMahon
 

@@ -1,6 +1,7 @@
 site_name: Civic Accountability Toolkit
-site_description: Evidence-first civic toolkit for public records, oversight requests, and linked case notes.
+site_description: Evidence-first research database for civic oversight.
 site_url: https://jordanistan.github.io/Civic-Accountability-Toolkit/
+
 theme:
   name: material
   features:
@@ -8,24 +9,38 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
 nav:
   - Home: index.md
-  - How to Use: how-to-use.md
-  - Daily Workflow: daily-workflow.md
   - People: people.md
   - Incidents: incidents.md
   - Issues: issues.md
   - Statutes: statutes.md
   - Agencies: agencies.md
-  - Graph View: graph-view.md
-  - Source Reliability: sourcing-standard.md
-  - Safe Civic Use: safe-civic-use.md
-  - Contribution Guide: contributing.md
-  - FAQ: faq.md
-  - Site Index: site-index.md
+  - Verification Standards: SOURCE_STANDARDS.md
+
 markdown_extensions:
   - tables
-  - toc:
-      permalink: true
-extra_css:
-  - assets/extra.css
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist
+
+use_directory_urls: true

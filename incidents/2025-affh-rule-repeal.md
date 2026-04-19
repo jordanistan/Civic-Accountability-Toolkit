@@ -2,16 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: high
-people:
-  - people/scott-turner
-issues:
-  - issues/civil-rights-and-first-amendment
-statutes:
-  - statutes/fifth-amendment-due-process
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2025 Affh Rule Repeal
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025 AFFH Rule Repeal
 

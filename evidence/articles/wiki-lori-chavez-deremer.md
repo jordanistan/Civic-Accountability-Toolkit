@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Lori%20Chavez-DeRemer"
-people:
-  - people/lori-chavez-deremer
+people: 
+title: Wiki Lori Chavez Deremer
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Lori Chavez-DeRemer
 

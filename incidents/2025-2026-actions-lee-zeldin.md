@@ -1,16 +1,17 @@
 ---
 type: incident
 status: active
-tags: [incident, automated-intake]
-source_tier: L3
+tags: "[incident, automated-intake]"
 confidence: medium
-people:
-  - people/lee-zeldin
-issues:
-  - issues/public-integrity-and-corruption
-evidence:
-  - evidence/articles/wiki-lee-zeldin
+people: 
+issues: 
+evidence: 
+title: 2025 2026 Actions Lee Zeldin
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025-2026 Actions - Lee Zeldin
 

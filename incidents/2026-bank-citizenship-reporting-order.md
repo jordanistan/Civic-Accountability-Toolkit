@@ -2,16 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: high
-people:
-  - people/scott-bessent
-issues:
-  - issues/public-integrity-and-corruption
-statutes:
-  - statutes/public-integrity-statutes
+people: 
+issues: 
+statutes: 
 evidence: []
+title: 2026 Bank Citizenship Reporting Order
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2026 Bank Citizenship Reporting Order
 

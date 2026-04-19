@@ -1,11 +1,14 @@
 ---
 type: evidence
 status: active
-tags: [evidence, source, official]
+tags: "[evidence, source, official]"
 source_tier: L1
-source_type: "official roster page"
+source_type: official roster page
 url: "https://www.whitehouse.gov/administration/"
+title: White House Administration Page
+summary: Evidentiary source document.
 ---
+
 
 # White House Administration roster page
 

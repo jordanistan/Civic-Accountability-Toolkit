@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Russ%20Vought"
-people:
-  - people/russ-vought
+people: 
+title: Wiki Russ Vought
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Russ Vought
 

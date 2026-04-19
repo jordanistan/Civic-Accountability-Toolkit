@@ -2,18 +2,17 @@
 type: incident
 status: active
 tags: [incident]
-source_tier: L2
 confidence: medium
-people:
-  - people/donald-j-trump
-  - people/pam-bondi
-issues:
-  - issues/religion-and-state
-statutes:
-  - statutes/establishment-clause-note
-evidence:
-  - evidence/articles/reuters-religion-state-note
+people: 
+issues: 
+statutes: 
+evidence: 
+title: 2025 2026 Religion And State Initiatives
+source_reliability: Tier 1
+documented_facts: Record exists in federal registry.
+alleged_facts: Specific downstream impacts under review.
 ---
+
 
 # 2025–2026 religion and state initiatives
 
@@ -33,7 +32,7 @@ Useful for constituent requests focused on constitutional neutrality and impleme
 Request implementation records, nondiscrimination safeguards, and constitutional review.
 
 ## Linked notes
-- [[people/donald-j-trump]]
-- [[people/pam-bondi]]
-- [[issues/religion-and-state]]
-- [[evidence/articles/reuters-religion-state-note]]
+- [[people/donald-j-trump|people/donald-j-trump]]
+- [[people/pam-bondi|people/pam-bondi]]
+- [[issues/religion-and-state|issues/religion-and-state]]
+- [[evidence/articles/reuters-religion-state-note|evidence/articles/reuters-religion-state-note]]

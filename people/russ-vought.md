@@ -1,21 +1,20 @@
 ---
 type: person
 status: rostered
-tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Director of OMB / DOGE Lead"
-group: "Executive"
+tags: "[person, civic-accountability, administration-roster, graph-node]"
+role: Director of OMB / DOGE Lead
+group: Executive
 office_status: current
-source_tier: L1
-related_agencies:
-  - agencies/congress
-related_issues:
-  - issues/public-integrity-and-corruption
-related_incidents:
-  - incidents/2025-2026-funding-freezes-blue-states
-  - incidents/2025-impoundment-control-dispute
-source_notes:
-  - evidence/articles/wiki-russ-vought
+related_agencies: 
+related_issues: 
+related_incidents: 
+source_notes: 
+name: Russ Vought
+summary: Official administration profile.
+confidence: Verified
+source_reliability: Tier 1
 ---
+
 
 # Russ Vought
 
@@ -29,17 +28,17 @@ source_notes:
 - **Action:** 2025-2026. Frozen or canceled billions in authorized funding for climate projects and infrastructure in specific states (e.g., $18B for NYC).
 - **Alleged Violation:** Impoundment Control Act of 1974.
 - **Status:** Subject to multiple state-level lawsuits.
-- **Link:** [[incidents/2025-2026-funding-freezes-blue-states]]
+- **Link:** [[incidents/2025-2026-funding-freezes-blue-states|incidents/2025-2026-funding-freezes-blue-states]]
 
 ### 2. Sidelining the GAO
 - **Action:** Issued guidance in late 2025 to federal agencies to ignore Government Accountability Office (GAO) inquiries and oversight.
 - **Alleged Violation:** Violation of statutory oversight mandates for the GAO.
 - **Status:** Active dispute with Congress.
-- **Link:** [[incidents/2025-impoundment-control-dispute]]
+- **Link:** [[incidents/2025-impoundment-control-dispute|incidents/2025-impoundment-control-dispute]]
 
 ## Linked Statutes
-- [[statutes/public-integrity-statutes]]
-- [[statutes/war-powers-framework]] (Budgetary context)
+- [[statutes/public-integrity-statutes|statutes/public-integrity-statutes]]
+- [[statutes/war-powers-framework|statutes/war-powers-framework]] (Budgetary context)
 
 ## Suggested Oversight Ask
 Request all OLC memos regarding the legal authority to withhold congressionally appropriated funds for specific states based on "financial governance" criteria.

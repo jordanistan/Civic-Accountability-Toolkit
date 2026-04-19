@@ -1,7 +1,11 @@
 ---
 type: statute
 tags: [statute]
+title: First Amendment
+summary: Constitutional or statutory provision.
+relevance: Relevant to executive oversight and due process.
 ---
+
 # First Amendment
 
 ## Plain-English note

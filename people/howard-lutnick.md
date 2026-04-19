@@ -1,21 +1,20 @@
 ---
 type: person
 status: rostered
-tags: [person, civic-accountability, administration-roster, graph-node]
-role: "Secretary of Commerce"
-group: "Cabinet"
+tags: "[person, civic-accountability, administration-roster, graph-node]"
+role: Secretary of Commerce
+group: Cabinet
 office_status: current
-source_tier: L1
-related_agencies:
-  - agencies/inspectors-general
-related_issues:
-  - issues/public-integrity-and-corruption
-related_incidents:
-  - incidents/2025-commerce-workforce-reduction
-  - incidents/2026-usmca-reimagination-dispute
-source_notes:
-  - evidence/articles/wiki-howard-lutnick
+related_agencies: 
+related_issues: 
+related_incidents: 
+source_notes: 
+name: Howard Lutnick
+summary: Official administration profile.
+confidence: Verified
+source_reliability: Tier 1
 ---
+
 
 # Howard Lutnick
 
@@ -34,10 +33,10 @@ source_notes:
 ### 2. Epstein Visit Controversy
 - **Action:** February 2026 Senate testimony admitting to a 2012 visit to Jeffrey Epstein's private island.
 - **Impact:** Bipartisan calls for resignation and increased oversight of personal vetting procedures.
-- **Link:** [[incidents/2026-epstein-files-controversy]] (Contextual connection)
+- **Link:** [[incidents/2026-epstein-files-controversy|incidents/2026-epstein-files-controversy]] (Contextual connection)
 
 ## Linked Statutes
-- [[statutes/public-integrity-statutes]]
+- [[statutes/public-integrity-statutes|statutes/public-integrity-statutes]]
 
 ## Suggested Oversight Ask
 Request the full vetting report regarding the Secretary's 2012 travel and any internal OLC memos regarding the expanded use of Section 232 for industrial subsidies.

@@ -1,13 +1,15 @@
 ---
 type: evidence
 status: verified
-tags: [evidence, biography, wikipedia]
+tags: "[evidence, biography, wikipedia]"
 source_tier: L3
-date_published: "2026-04-18"
+date_published: 2026-04-18
 url: "https://en.wikipedia.org/wiki/Robert%20F.%20Kennedy%20Jr."
-people:
-  - people/robert-f-kennedy-jr
+people: 
+title: Wiki Robert F Kennedy Jr
+summary: Evidentiary source document.
 ---
+
 
 # Wikipedia Summary: Robert F. Kennedy Jr.
 
